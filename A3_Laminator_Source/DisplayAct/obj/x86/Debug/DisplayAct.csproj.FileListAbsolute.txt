@@ -1,0 +1,927 @@
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\CommonAct.dll
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\DBAct.dll
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\InfoAct.dll
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\ucOvenSlotGlsInfo.dll
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\DBAct.pdb
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\ucOvenSlotGlsInfo.pdb
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmHSMSSet.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmOvenInfoView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSubDisplayView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmIndexInfoView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Project\B2 TSP\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\CIM\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\CIM\Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\CIM\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\CIM\Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\CIM\Source\DisplayAct\bin\Debug\DBAct.dll
+D:\CIM\Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\CIM\Source\DisplayAct\bin\Debug\LogAct.dll
+D:\CIM\Source\DisplayAct\bin\Debug\ucOvenSlotGlsInfo.dll
+D:\CIM\Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\CIM\Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\CIM\Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\CIM\Source\DisplayAct\bin\Debug\ucOvenSlotGlsInfo.pdb
+D:\CIM\Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\CIM\Source\DisplayAct\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHSMSSet.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLotInformationDisplay.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmIndexTest.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmOvenInfoView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSubDisplayView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmIndexInfoView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\CIM\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\DBAct.dll
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\LogAct.dll
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\ucOvenSlotGlsInfo.dll
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\ucOvenSlotGlsInfo.pdb
+D:\Project\B2 TSP\Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHSMSSet.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLotInformationDisplay.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmIndexTest.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmOvenInfoView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSubDisplayView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmIndexInfoView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Project\B2 TSP\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\DBAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\LogAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DBAct.dll
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\LogAct.dll
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.dll
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\CommonAct.dll
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DBAct.dll
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\InfoAct.dll
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\LogAct.dll
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\DBAct.pdb
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\InfoAct.pdb
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\LogAct.pdb
+E:\Project\기흥\SUNTEC\Source\DisplayAct\bin\Debug\CommonAct.pdb
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+E:\Project\기흥\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\CommonAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\DBAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\InfoAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\LogAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\DBAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\InfoAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\LogAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\bin\Debug\CommonAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\DisplayAct.dll.config
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\DisplayAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\DisplayAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\CommonAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\DBAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\InfoAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\LogAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\DBAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\InfoAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\LogAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\bin\Debug\CommonAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Source1\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Source1\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Source1\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Source1\DisplayAct\bin\Debug\CommonAct.dll
+D:\Source1\DisplayAct\bin\Debug\DBAct.dll
+D:\Source1\DisplayAct\bin\Debug\InfoAct.dll
+D:\Source1\DisplayAct\bin\Debug\LogAct.dll
+D:\Source1\DisplayAct\bin\Debug\DBAct.pdb
+D:\Source1\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Source1\DisplayAct\bin\Debug\LogAct.pdb
+D:\Source1\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Source1\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Source2\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Source2\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Source2\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Source2\DisplayAct\bin\Debug\CommonAct.dll
+D:\Source2\DisplayAct\bin\Debug\DBAct.dll
+D:\Source2\DisplayAct\bin\Debug\InfoAct.dll
+D:\Source2\DisplayAct\bin\Debug\LogAct.dll
+D:\Source2\DisplayAct\bin\Debug\DBAct.pdb
+D:\Source2\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Source2\DisplayAct\bin\Debug\LogAct.pdb
+D:\Source2\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T2.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Source_150210\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Source_150210\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Source_150210\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Source_150210\DisplayAct\bin\Debug\CommonAct.dll
+D:\Source_150210\DisplayAct\bin\Debug\DBAct.dll
+D:\Source_150210\DisplayAct\bin\Debug\InfoAct.dll
+D:\Source_150210\DisplayAct\bin\Debug\LogAct.dll
+D:\Source_150210\DisplayAct\bin\Debug\DBAct.pdb
+D:\Source_150210\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Source_150210\DisplayAct\bin\Debug\LogAct.pdb
+D:\Source_150210\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T2.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Source_150210\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.frmDataView.resources
+D:\Source2\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B2.resources
+D:\Source - 복사본\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Source - 복사본\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Source - 복사본\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Source - 복사본\DisplayAct\bin\Debug\CommonAct.dll
+D:\Source - 복사본\DisplayAct\bin\Debug\DBAct.dll
+D:\Source - 복사본\DisplayAct\bin\Debug\InfoAct.dll
+D:\Source - 복사본\DisplayAct\bin\Debug\LogAct.dll
+D:\Source - 복사본\DisplayAct\bin\Debug\DBAct.pdb
+D:\Source - 복사본\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Source - 복사본\DisplayAct\bin\Debug\LogAct.pdb
+D:\Source - 복사본\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmDataView.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B2.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T2.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Source - 복사본\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\Source\DisplayAct\bin\Debug\DBAct.dll
+D:\Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\Source\DisplayAct\bin\Debug\LogAct.dll
+D:\Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmDataView.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B2.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T2.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DBAct.dll
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\LogAct.dll
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmDataView.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B2.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T2.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DisplayAct.dll.config
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DisplayAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DisplayAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\CommonAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DBAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\InfoAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\LogAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\DBAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\InfoAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\LogAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\bin\Debug\CommonAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.csprojResolveAssemblyReference.cache
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmMain.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmDataView.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPState.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMSG.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgList.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmErrMsgOverWrite.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmExit.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogOn.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewAlarm.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmLogViewECID.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmModeChange.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmOperatorCall.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmProcessState.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSEMConfig.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmSimulationTest.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmPPIDList.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDCreate.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmHostPPIDModify.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDCreate.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.frmEQPPPIDModify.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.Properties.Resources.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_History.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Info.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Setting.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_LogManager.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmInfoView.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmLogManagerView.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmMainView.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCaption.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmCommandButton_Main.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmHistoryView.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGeneral.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmHistoryGroup.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.Ngrid.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoAPC.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoMultiData.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoPPC.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoRPC.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmInfoSEM.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B2.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmNavigationButton.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmSetupView.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.subfrmTitlePanel.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_B.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmMainView_T2.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupAlarm.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupECID.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEQP.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupUser.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupSVID.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupPPID.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.tabfrmSetupEOID.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.csproj.GenerateResource.Cache
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\DisplayAct\obj\x86\Debug\DisplayAct.pdb

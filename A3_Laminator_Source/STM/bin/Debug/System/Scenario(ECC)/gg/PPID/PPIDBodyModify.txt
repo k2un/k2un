@@ -1,0 +1,14 @@
+﻿// PPIDBody Modify
+
+INTERVAL,20
+
+
+WAITIF(PLC(B1034,1)==1)
+
+strPPIDModify=PLC(W1040,33,H)
+
+PLC(B1534,1)
+
+PLC(W26C0,strPPIDModify,H)
+
+PLC(B153B,1)

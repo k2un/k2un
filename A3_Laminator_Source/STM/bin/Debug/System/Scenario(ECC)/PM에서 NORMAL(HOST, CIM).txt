@@ -1,0 +1,29 @@
+//'PM에서 NORMAL(HOST, CIM)
+
+//'먼저 Normal 혹은 Fault -> PM으로..
+File NORMAL에서 PM(HOST, CIM).txt
+
+
+//'PM -> Normal로.
+
+DO
+{
+PASS=PLC(B1010,1)
+}WHILE(PASS<1)
+PASS=0
+//'NORMAL 지시 확인 ON 
+PLC(B1510,1)
+
+
+//'이하 모든 개별 Unit Normal로..
+//'B1640,100
+//'B1650,100
+//'B1660,100
+//'B1670,100
+//'B1680,100
+//'B1690,100
+
+
+//'EQP State(NORMAL)
+PLC(B1600,100)
+

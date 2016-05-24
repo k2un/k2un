@@ -1,0 +1,16 @@
+PLC(W1500,009B,H)
+PLC(W1502,009B,H)
+
+do
+{
+
+PLC(B1508,1)
+
+Delay,200
+
+PLC(B1509,1)
+
+Delay,100
+
+}
+while(1)

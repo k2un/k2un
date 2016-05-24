@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0189EF2-2C06-459B-8E9B-C38B34E575F5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HostAct</RootNamespace>
+    <AssemblyName>HostAct</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TrackFileAccess>false</TrackFileAccess>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NSECS, Version=2.49.7.200, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\NSECS\NSECS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsHostAct.cs" />
+    <Compile Include="clsSFMessages\clsS10F3.cs" />
+    <Compile Include="clsSFMessages\clsS16F1.cs" />
+    <Compile Include="clsSFMessages\clsS16F101.cs" />
+    <Compile Include="clsSFMessages\clsS16F103.cs" />
+    <Compile Include="clsSFMessages\clsS16F105.cs" />
+    <Compile Include="clsSFMessages\clsS16F11.cs" />
+    <Compile Include="clsSFMessages\clsS16F111.cs" />
+    <Compile Include="clsSFMessages\clsS16F113.cs" />
+    <Compile Include="clsSFMessages\clsS16F115.cs" />
+    <Compile Include="clsSFMessages\clsS16F121.cs" />
+    <Compile Include="clsSFMessages\clsS16F123.cs" />
+    <Compile Include="clsSFMessages\clsS16F125.cs" />
+    <Compile Include="clsSFMessages\clsS16F131.cs" />
+    <Compile Include="clsSFMessages\clsS16F133.cs" />
+    <Compile Include="clsSFMessages\clsS16F135.cs" />
+    <Compile Include="clsSFMessages\clsS16F15.cs" />
+    <Compile Include="clsSFMessages\clsS16F3.cs" />
+    <Compile Include="clsSFMessages\clsS16F5.cs" />
+    <Compile Include="clsSFMessages\clsS1F1.cs" />
+    <Compile Include="clsSFMessages\clsS1F17.cs" />
+    <Compile Include="clsSFMessages\clsS1F3.cs" />
+    <Compile Include="clsSFMessages\clsS1F5.cs" />
+    <Compile Include="clsSFMessages\clsS2F101.cs" />
+    <Compile Include="clsSFMessages\clsS2F103.cs" />
+    <Compile Include="clsSFMessages\clsS2F15.cs" />
+    <Compile Include="clsSFMessages\clsS2F23.cs" />
+    <Compile Include="clsSFMessages\clsS2F29.cs" />
+    <Compile Include="clsSFMessages\clsS2F31.cs" />
+    <Compile Include="clsSFMessages\clsS2F41_EQPCMD.cs" />
+    <Compile Include="clsSFMessages\clsS2F41_JobCMD.cs" />
+    <Compile Include="clsSFMessages\clsS3F1.cs" />
+    <Compile Include="clsSFMessages\clsS5F1.cs" />
+    <Compile Include="clsSFMessages\clsS5F101.cs" />
+    <Compile Include="clsSFMessages\clsS5F5.cs" />
+    <Compile Include="clsSFMessages\clsS6F1.cs" />
+    <Compile Include="clsSFMessages\clsS6F101.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_EQPSpecifiedCtrl.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_EQPSpecifiedNetwork.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_RelatedEQPEvent.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_RelatedEQPParameter.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_RelatedGlassProcess.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_RelatedJobProcess.cs" />
+    <Compile Include="clsSFMessages\clsS6F13_GLSAPD.cs" />
+    <Compile Include="clsSFMessages\clsS6F13_LOTAPD.cs" />
+    <Compile Include="clsSFMessages\clsS7F1.cs" />
+    <Compile Include="clsSFMessages\clsS7F101.cs" />
+    <Compile Include="clsSFMessages\clsS7F103.cs" />
+    <Compile Include="clsSFMessages\clsS7F107.cs" />
+    <Compile Include="clsSFMessages\clsS7F109.cs" />
+    <Compile Include="clsSFMessages\clsS7F21.cs" />
+    <Compile Include="clsSFMessages\clsS7F23.cs" />
+    <Compile Include="clsSFMessages\clsS7F25.cs" />
+    <Compile Include="clsSFMessages\clsS6F13_GLSAPDMea.cs" />
+    <Compile Include="clsSFMessages\clsS8F1.cs" />
+    <Compile Include="clsSFMessages\clsS8F3.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_RelatedProcessStatusEvent.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_MaterialLoadEvent.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_MaterialProcEvent.cs" />
+    <Compile Include="clsSFMessages\clsS6F11_MaterialStockEvent.cs" />
+    <Compile Include="clsSFMessages\clsS3F115.cs" />
+    <Compile Include="clsSFMessages\clsS6F11RelatedPortEvent.cs" />
+    <Compile Include="clsSFMessages\clsS6F11CSTMovingEvent.cs" />
+    <Compile Include="clsSFMessages\clsS6F11MaterialProcessStatusEvent.cs" />
+    <Compile Include="cls\clsSFManager.cs" />
+    <Compile Include="cls\IStreamFunction.cs" />
+    <Compile Include="cls\clsStreamFunction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\CommonAct\CommonAct.csproj">
+      <Project>{A321161C-60F4-4549-8433-126A8A858AA6}</Project>
+      <Name>CommonAct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\DBAct\DBAct.csproj">
+      <Project>{239E430D-77C6-4B91-858D-869DC38EC249}</Project>
+      <Name>DBAct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\InfoAct\InfoAct.csproj">
+      <Project>{89013D2D-487F-4897-8D75-771427172035}</Project>
+      <Name>InfoAct</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="clsSFMessages\clsSmFn_SampleFormat.txt" />
+    <Content Include="문서\V1.0.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

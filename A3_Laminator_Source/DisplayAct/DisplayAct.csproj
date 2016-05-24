@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B77D2F45-ACE1-4053-A9B4-DA8B7A080D21}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DisplayAct</RootNamespace>
+    <AssemblyName>DisplayAct</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TrackFileAccess>false</TrackFileAccess>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonAct, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Common\CommonAct\bin\Debug\CommonAct.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmDataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmDataView.designer.cs">
+      <DependentUpon>frmDataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmEQPState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmEQPState.Designer.cs">
+      <DependentUpon>frmEQPState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmErrMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmErrMsg.Designer.cs">
+      <DependentUpon>frmErrMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmErrMsgList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmErrMsgList.Designer.cs">
+      <DependentUpon>frmErrMsgList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmErrMsgOverWrite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmErrMsgOverWrite.Designer.cs">
+      <DependentUpon>frmErrMsgOverWrite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmExit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmExit.designer.cs">
+      <DependentUpon>frmExit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmLogOn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmLogOn.Designer.cs">
+      <DependentUpon>frmLogOn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmLogViewAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmLogViewAlarm.Designer.cs">
+      <DependentUpon>frmLogViewAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmLogViewECID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmLogViewECID.Designer.cs">
+      <DependentUpon>frmLogViewECID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmModeChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmModeChange.Designer.cs">
+      <DependentUpon>frmModeChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmOperatorCall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmOperatorCall.designer.cs">
+      <DependentUpon>frmOperatorCall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmProcessState.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmProcessState.Designer.cs">
+      <DependentUpon>frmProcessState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmSEMConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmSEMConfig.Designer.cs">
+      <DependentUpon>frmSEMConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmSimulationTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmSimulationTest.Designer.cs">
+      <DependentUpon>frmSimulationTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmPPIDList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmPPIDList.Designer.cs">
+      <DependentUpon>frmPPIDList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmHostPPIDCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmHostPPIDCreate.Designer.cs">
+      <DependentUpon>frmHostPPIDCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmHostPPIDModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmHostPPIDModify.Designer.cs">
+      <DependentUpon>frmHostPPIDModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmEQPPPIDCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmEQPPPIDCreate.Designer.cs">
+      <DependentUpon>frmEQPPPIDCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForm\frmEQPPPIDModify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForm\frmEQPPPIDModify.Designer.cs">
+      <DependentUpon>frmEQPPPIDModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_History.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_History.Designer.cs">
+      <DependentUpon>subfrmCommandButton_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_Info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_Info.Designer.cs">
+      <DependentUpon>subfrmCommandButton_Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_Setting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_Setting.Designer.cs">
+      <DependentUpon>subfrmCommandButton_Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_LogManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_LogManager.Designer.cs">
+      <DependentUpon>subfrmCommandButton_LogManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmInfoView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmInfoView.designer.cs">
+      <DependentUpon>subfrmInfoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmLogManagerView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmLogManagerView.Designer.cs">
+      <DependentUpon>subfrmLogManagerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmMainView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmMainView.Designer.cs">
+      <DependentUpon>subfrmMainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_History\tabfrmHistoryGeneral.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_History\tabfrmHistoryGeneral.Designer.cs">
+      <DependentUpon>tabfrmHistoryGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_History\tabfrmHistoryGroup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_History\tabfrmHistoryGroup.Designer.cs">
+      <DependentUpon>tabfrmHistoryGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCaption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCaption.designer.cs">
+      <DependentUpon>subfrmCaption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmCommandButton_Main.designer.cs">
+      <DependentUpon>subfrmCommandButton_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmHistoryView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmHistoryView.Designer.cs">
+      <DependentUpon>subfrmHistoryView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Info\Ngrid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Info\Ngrid.Designer.cs">
+      <DependentUpon>Ngrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoAPC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoAPC.designer.cs">
+      <DependentUpon>tabfrmInfoAPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoMultiData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoMultiData.designer.cs">
+      <DependentUpon>tabfrmInfoMultiData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoPPC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoPPC.designer.cs">
+      <DependentUpon>tabfrmInfoPPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoRPC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoRPC.designer.cs">
+      <DependentUpon>tabfrmInfoRPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoSEM.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Info\tabfrmInfoSEM.designer.cs">
+      <DependentUpon>tabfrmInfoSEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_B2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_B2.designer.cs">
+      <DependentUpon>tabfrmMainView_B2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_T.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_T.designer.cs">
+      <DependentUpon>tabfrmMainView_T.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmNavigationButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmNavigationButton.Designer.cs">
+      <DependentUpon>subfrmNavigationButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmSetupView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_InfoPanel\subfrmSetupView.Designer.cs">
+      <DependentUpon>subfrmSetupView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmTitlePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subForm_Etc\subfrmTitlePanel.designer.cs">
+      <DependentUpon>subfrmTitlePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_B.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_B.designer.cs">
+      <DependentUpon>tabfrmMainView_B.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_T2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_Main\tabfrmMainView_T2.designer.cs">
+      <DependentUpon>tabfrmMainView_T2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupAlarm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupAlarm.Designer.cs">
+      <DependentUpon>tabfrmSetupAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupEQP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupEQP.Designer.cs">
+      <DependentUpon>tabfrmSetupEQP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupECID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupECID.Designer.cs">
+      <DependentUpon>tabfrmSetupECID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupUser.Designer.cs">
+      <DependentUpon>tabfrmSetupUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupSVID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupSVID.Designer.cs">
+      <DependentUpon>tabfrmSetupSVID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupPPID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupPPID.Designer.cs">
+      <DependentUpon>tabfrmSetupPPID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupEOID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tabForm_System\tabfrmSetupEOID.Designer.cs">
+      <DependentUpon>tabfrmSetupEOID.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmDataView.resx">
+      <DependentUpon>frmDataView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmEQPState.resx">
+      <DependentUpon>frmEQPState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmErrMsg.resx">
+      <DependentUpon>frmErrMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmErrMsgList.resx">
+      <DependentUpon>frmErrMsgList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmErrMsgOverWrite.resx">
+      <DependentUpon>frmErrMsgOverWrite.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmExit.resx">
+      <DependentUpon>frmExit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmLogOn.resx">
+      <DependentUpon>frmLogOn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmLogViewAlarm.resx">
+      <DependentUpon>frmLogViewAlarm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmLogViewECID.resx">
+      <DependentUpon>frmLogViewECID.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmModeChange.resx">
+      <DependentUpon>frmModeChange.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmOperatorCall.resx">
+      <DependentUpon>frmOperatorCall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmProcessState.resx">
+      <DependentUpon>frmProcessState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmSEMConfig.resx">
+      <DependentUpon>frmSEMConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmSimulationTest.resx">
+      <DependentUpon>frmSimulationTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmPPIDList.resx">
+      <DependentUpon>frmPPIDList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmHostPPIDCreate.resx">
+      <DependentUpon>frmHostPPIDCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmHostPPIDModify.resx">
+      <DependentUpon>frmHostPPIDModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmEQPPPIDCreate.resx">
+      <DependentUpon>frmEQPPPIDCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForm\frmEQPPPIDModify.resx">
+      <DependentUpon>frmEQPPPIDModify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmCommandButton_History.resx">
+      <DependentUpon>subfrmCommandButton_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmCommandButton_Info.resx">
+      <DependentUpon>subfrmCommandButton_Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmCommandButton_Setting.resx">
+      <DependentUpon>subfrmCommandButton_Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmCommandButton_LogManager.resx">
+      <DependentUpon>subfrmCommandButton_LogManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_InfoPanel\subfrmInfoView.resx">
+      <DependentUpon>subfrmInfoView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_InfoPanel\subfrmLogManagerView.resx">
+      <DependentUpon>subfrmLogManagerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_InfoPanel\subfrmMainView.resx">
+      <DependentUpon>subfrmMainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmCaption.resx">
+      <DependentUpon>subfrmCaption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmCommandButton_Main.resx">
+      <DependentUpon>subfrmCommandButton_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_InfoPanel\subfrmHistoryView.resx">
+      <DependentUpon>subfrmHistoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_History\tabfrmHistoryGeneral.resx">
+      <DependentUpon>tabfrmHistoryGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_History\tabfrmHistoryGroup.resx">
+      <DependentUpon>tabfrmHistoryGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Info\Ngrid.resx">
+      <DependentUpon>Ngrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Info\tabfrmInfoAPC.resx">
+      <DependentUpon>tabfrmInfoAPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Info\tabfrmInfoMultiData.resx">
+      <DependentUpon>tabfrmInfoMultiData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Info\tabfrmInfoPPC.resx">
+      <DependentUpon>tabfrmInfoPPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Info\tabfrmInfoRPC.resx">
+      <DependentUpon>tabfrmInfoRPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Info\tabfrmInfoSEM.resx">
+      <DependentUpon>tabfrmInfoSEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Main\tabfrmMainView_B2.resx">
+      <DependentUpon>tabfrmMainView_B2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Main\tabfrmMainView_T.resx">
+      <DependentUpon>tabfrmMainView_T.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmNavigationButton.resx">
+      <DependentUpon>subfrmNavigationButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_InfoPanel\subfrmSetupView.resx">
+      <DependentUpon>subfrmSetupView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subForm_Etc\subfrmTitlePanel.resx">
+      <DependentUpon>subfrmTitlePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Main\tabfrmMainView_B.resx">
+      <DependentUpon>tabfrmMainView_B.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_Main\tabfrmMainView_T2.resx">
+      <DependentUpon>tabfrmMainView_T2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupAlarm.resx">
+      <DependentUpon>tabfrmSetupAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupECID.resx">
+      <DependentUpon>tabfrmSetupECID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupEQP.resx">
+      <DependentUpon>tabfrmSetupEQP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupUser.resx">
+      <DependentUpon>tabfrmSetupUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupSVID.resx">
+      <DependentUpon>tabfrmSetupSVID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupPPID.resx">
+      <DependentUpon>tabfrmSetupPPID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabForm_System\tabfrmSetupEOID.resx">
+      <DependentUpon>tabfrmSetupEOID.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\DBAct\DBAct.csproj">
+      <Project>{239E430D-77C6-4B91-858D-869DC38EC249}</Project>
+      <Name>DBAct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\InfoAct\InfoAct.csproj">
+      <Project>{89013D2D-487F-4897-8D75-771427172035}</Project>
+      <Name>InfoAct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\LogAct\LogAct.csproj">
+      <Project>{9B242E94-D3FB-4516-B57B-E9D895E22BCD}</Project>
+      <Name>LogAct</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+    <None Include="Resources\arrow1.png" />
+    <None Include="Resources\DMS_LOGO.png" />
+    <None Include="Resources\robot.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\btnBlue.png" />
+    <None Include="Resources\btnStyle01.png" />
+    <None Include="Resources\PORT_TABLE_BLUE.png" />
+    <None Include="Resources\CST_FULL.png" />
+    <None Include="Resources\CST_E.png" />
+    <None Include="Resources\CST_EMPTY.png" />
+    <None Include="Resources\CST_F.png" />
+    <None Include="Resources\CST_H.png" />
+    <None Include="Resources\CST_HALP.png" />
+    <None Include="Resources\CST_O.png" />
+    <None Include="Resources\Cleaner2.png" />
+    <None Include="Resources\Cleaner.png" />
+    <None Include="Resources\GLS.png" />
+    <None Include="Resources\Cleaner1.png" />
+    <None Include="Resources\Glass.png" />
+    <None Include="Resources\IDX_GRAY.png" />
+    <None Include="Resources\Oven.png" />
+    <None Include="Resources\Oven1.png" />
+    <None Include="Resources\Oven2.png" />
+    <None Include="Resources\Oven3.png" />
+    <None Include="Resources\OvenGls_Full.png" />
+    <None Include="Resources\OvenGls_Full1.png" />
+    <None Include="Resources\PortState.png" />
+    <None Include="Resources\PortState1.png" />
+    <None Include="Resources\CST01_FULL.png" />
+    <None Include="Resources\CST_F1.png" />
+    <None Include="Resources\OvenState.png" />
+    <None Include="Resources\OvenState1.png" />
+    <None Include="Resources\OvenGls_Full2.png" />
+    <None Include="Resources\btnBG03.png" />
+    <None Include="Resources\EQPState.png" />
+    <None Include="Resources\CST_E1.png" />
+    <None Include="Resources\OvenGlass.png" />
+    <None Include="Resources\EXIT-01.png" />
+    <None Include="Resources\EXIT.png" />
+    <None Include="Resources\main.png" />
+    <None Include="Resources\From.png" />
+    <None Include="Resources\To Host.png" />
+    <None Include="Resources\HSMS_SET.png" />
+    <None Include="Resources\HSMS_DEFAULT.png" />
+    <None Include="Resources\X.png" />
+    <None Include="Resources\SkyCV.png" />
+    <None Include="Resources\SkyCV1.png" />
+    <None Include="Resources\SkyGLS01.png" />
+    <None Include="Resources\SkyGLS02.png" />
+    <None Include="Resources\SkyGLS03.png" />
+    <None Include="Resources\SkyGLS04.png" />
+    <None Include="Resources\SkyGLS011.png" />
+    <None Include="Resources\SkyGLS021.png" />
+    <None Include="Resources\SkyGLS031.png" />
+    <None Include="Resources\SkyCV2.png" />
+    <None Include="Resources\SkyCV3.png" />
+    <None Include="Resources\boe_Loge.jpg" />
+    <None Include="Resources\lblGlassID.png" />
+    <None Include="Resources\lblGlassID1.png" />
+    <None Include="Resources\IN.png" />
+    <None Include="Resources\MainVeiw_T_1280.png" />
+    <None Include="Resources\GLS01.png" />
+    <None Include="Resources\GLS02.png" />
+    <None Include="Resources\GLS03.png" />
+    <None Include="Resources\GLS10.png" />
+    <None Include="Resources\GLS11.png" />
+    <None Include="Resources\GLS12.png" />
+    <None Include="Resources\MainVeiw_B_1280.png" />
+    <Content Include="문서\V1.0.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

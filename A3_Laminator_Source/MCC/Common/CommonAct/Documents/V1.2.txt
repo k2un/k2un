@@ -1,0 +1,16 @@
+
+* V1.2(2007/03/05)
+	- 변경한 사람: 김효주
+	- subChangeRowStyle() 메소드에서 사용하지 않는 변수 dDT 주석처리
+	- subChangeColumnStyle() 메소드에서 사용하지 않는 변수 dDT 주석처리
+	- funAddColumn() 메소드 추가 - DataTable에 컬럼을 추가해서 DataTbale을 리턴한다.
+	
+* V1.1(2007/02/22)
+	- 변경한 사람: 김효주
+	- 회의 후 대폭 수정
+	- ColumnName, ColumnIndex 모두 사용할 수 있도록 추가, 수정
+	- 메소드 이름 변경(DataGridView에 직접 바인딩 -> 접두어 Sub, DataTable을 리턴하는 메소드 -> 접두어 Fun)
+
+* V1.0(2007/02/07)
+    - 변경한 사람: 김효주
+	- 최초작성

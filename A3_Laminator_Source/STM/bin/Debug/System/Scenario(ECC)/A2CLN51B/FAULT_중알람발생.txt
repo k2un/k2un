@@ -1,0 +1,16 @@
+// 노말 폴트 피엠 이닛 아이들 셋업 레디 익스큐트 포즈 디세이블
+before = PLC(B1600,10)
+beforeUnit15 = PLC(B1720,10)
+// heavy alarm set
+PLC(B1900,1)	
+PLC(B160A,1)
+// fault
+PLC(B1720,0100000010)
+PLC(B1600,0100000010) 
+
+pause
+// heavy alarm set
+PLC(B1900,0)
+PLC(B160A,0)	
+PLC(B1720,beforeUnit15)
+PLC(B1600,before)

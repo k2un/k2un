@@ -1,0 +1,248 @@
+//'Normal Scenario(3 GLS)
+
+//'GLS, LOT APD 정보
+FIle Initialize.txt
+
+//'VCR ON-SKIP MODE
+PLC(W1511,1,D)
+PLC(B150F,1)
+
+//'1번째 GLS 정보
+FIle 1번째 GLS 정보(End Flag 없는것).txt
+
+
+//'전체 장비 상태 Execute
+PLC(B1603,000010)
+//'Unit1 Execute
+PLC(B1643,000010)
+//'전체 장비 GLS 있음
+PLC(B160B,1)
+
+////////////////////////////////////////////////////////////
+//Unit01에 1번째 GLS 도착
+
+//'Unit1 GLS Arrive(Start)
+//'GLS Data
+PLC(W1740,LOTID01,A)
+PLC(W1747,1,A)
+PLC(B1548,1)
+Delay,2
+
+//''''''''VCR'''''''''''''
+//'CV01에 있는 VCR을 읽음.
+//'H_Panel = VCR로 Reading한 ID가 일치함.
+//'PLC는 GLS Data 128 Word에서 E_PanelID를 갱신 
+PLC(W1513,GLSID00000001,A)
+PLC(B1528,1)
+Delay,2
+''''''''VCR'''''''''''''
+
+//Unit01에 1번째 GLS 배출
+
+//'Unit1 GLS Depature(End)
+//'GLS Data
+PLC(W1748,LOTID01,A)
+PLC(W174F,1,A)
+PLC(B1578,1)
+//'Unit1 Idle
+PLC(B1643,010000)
+
+////////////////////////////////////////////////////////////
+//Unit10에 1번째 GLS 도착
+//Unit01에 2번째 GLS 도착
+
+//'Unit10 Execute
+PLC(B16D3,000010)
+//'Unit10 GLS Arrive(Start)
+//'GLS Data
+PLC(W17D0,LOTID01,A)
+PLC(W17D7,1,A)
+PLC(B1559,1)
+Delay,2
+
+//''''''''''''''''''''''''''''''
+//'첫번째 GLS가 Unit10에 처리중임.
+//'두번째 GLS가 Unit1에 들어옴.
+//'2번째 GLS 정보
+FIle 2번째 GLS 정보(End Flag 없는것).txt
+//''''''''''''''''''''''''''''''
+
+//'Unit1 Execute
+PLC(B1643,000010)
+//'Unit1 GLS Arrive(Start)
+//'GLS Data
+PLC(W1740,LOTID01,A)
+PLC(W1747,2,A)
+PLC(B1548,1)
+Delay,2
+
+//''''''''VCR'''''''''''''
+//'CV01에 있는 VCR을 읽음.
+//'H_Panel = VCR로 Reading한 ID가 일치함.
+//'PLC는 GLS Data 128 Word에서 E_PanelID를 갱신 
+PLC(W1513,GLSID00000002,A)
+PLC(B1528,1)
+Delay,2
+//''''''''VCR'''''''''''''
+
+//Unit10에 1번째 GLS 배출
+//'Unit10 GLS Depature(End)
+//'GLS Data
+PLC(W17D8,LOTID01,A)
+PLC(W17DF,1,A)
+PLC(B1589,1)
+//'Unit10 Idle
+PLC(B16D3,010000)
+
+//Unit01에 2번째 GLS 배출
+//'Unit1 GLS Depature(End)
+//'GLS Data
+PLC(W1748,LOTID01,A)
+PLC(W174F,1,A)
+PLC(B1578,1)
+//'Unit1 Idle
+PLC(B1643,010000)
+
+////////////////////////////////////////////////////////////
+//Unit20에 1번째 GLS 도착
+//Unit10에 2번째 GLS 도착
+//Unit01에 3번째 GLS 도착
+
+//'Unit20 Execute
+PLC(B1773,000010)
+//'Unit20 GLS Arrive(Start)
+//'GLS Data
+PLC(W1870,LOTID01,A)
+PLC(W1877,1,A)
+PLC(B156B,1)
+Delay,2
+
+//'Unit10 Execute
+PLC(B16D3,000010)
+//'Unit10 GLS Arrive(Start)
+//'GLS Data
+PLC(W17D0,LOTID01,A)
+PLC(W17D7,1,A)
+PLC(B1559,1)
+Delay,2
+
+
+//''''''''''''''''''''''''''''''
+//'첫번째 GLS가 Unit20에 처리중.
+//'두번째 GLS가 Unit10에 처리중.
+//'3번째 GLS 정보
+FIle 3번째 GLS 정보(End Flag 있는것).txt
+
+//'Unit1 Execute
+PLC(B1643,000010)
+//'Unit1 GLS Arrive(Start)
+//'GLS Data
+PLC(W1740,LOTID01,A)
+PLC(W1747,2,A)
+PLC(B1548,1)
+Delay,2
+//''''''''''''''''''''''''''''''
+//'CV01에 있는 VCR을 읽음.
+//'H_Panel = VCR로 Reading한 ID가 일치함.
+//'PLC는 GLS Data 128 Word에서 E_PanelID를 갱신 
+PLC(W1513,GLSID00000003,A)
+PLC(B1528,1)
+Delay,2
+//''''''''VCR'''''''''''''
+//Unit20에 1번째 GLS 배출
+//'Unit20 GLS Depature(End)
+//'GLS Data
+PLC(W1878,LOTID01,A)
+PLC(W187F,1,A)
+PLC(B159B,1)
+//'Unit20 Idle
+PLC(B1773,010000)
+
+//Unit10에 2번째 GLS 배출
+//'Unit10 GLS Depature(End)
+//'GLS Data
+PLC(W17D8,LOTID01,A)
+PLC(W17DF,1,A)
+PLC(B1589,1)
+//'Unit10 Idle
+PLC(B16D3,010000)
+
+//Unit01에 3번째 GLS 배출
+//'Unit1 GLS Depature(End)
+//'GLS Data
+PLC(W1748,LOTID01,A)
+PLC(W174F,1,A)
+PLC(B1578,1)
+//'Unit1 Idle
+PLC(B1643,010000)
+
+////////////////////////////////////////////////////////////
+//Unit20에 2번째 GLS 도착
+//Unit10에 3번째 GLS 도착
+
+//'Unit20 Execute
+PLC(B1773,000010)
+//'Unit20 GLS Arrive(Start)
+//'GLS Data
+PLC(W1870,LOTID01,A)
+PLC(W1877,1,A)
+PLC(B156B,1)
+Delay,2
+
+//'Unit10 Execute
+PLC(B16D3,000010)
+//'Unit10 GLS Arrive(Start)
+//'GLS Data
+PLC(W17D0,LOTID01,A)
+PLC(W17D7,1,A)
+PLC(B1559,1)
+Delay,2
+
+//Unit20에 2번째 GLS 배출
+//'Unit20 GLS Depature(End)
+//'GLS Data
+PLC(W1878,LOTID01,A)
+PLC(W187F,1,A)
+PLC(B159B,1)
+//'Unit20 Idle
+PLC(B1773,010000)
+
+//Unit10에 3번째 GLS 배출
+//'Unit10 GLS Depature(End)
+//'GLS Data
+PLC(W17D8,LOTID01,A)
+PLC(W17DF,1,A)
+PLC(B1589,1)
+//'Unit10 Idle
+PLC(B16D3,010000)
+
+////////////////////////////////////////////////////////////
+//Unit20에 3번째 GLS 도착
+
+//'Unit20 Execute
+PLC(B1773,000010)
+//'Unit20 GLS Arrive(Start)
+//'GLS Data
+PLC(W1870,LOTID01,A)
+PLC(W1877,1,A)
+PLC(B156B,1)
+Delay,2
+
+//Unit20에 3번째 GLS 배출
+//'Unit20 GLS Depature(End)
+//'GLS Data
+PLC(W1878,LOTID01,A)
+PLC(W187F,1,A)
+PLC(B159B,1)
+//'Unit20 Idle
+PLC(B1773,010000)
+
+////////////////////////////////////////////////////////////
+
+//'전체 장비 상태 Idle
+PLC(B1603,010000)
+
+
+
+
+

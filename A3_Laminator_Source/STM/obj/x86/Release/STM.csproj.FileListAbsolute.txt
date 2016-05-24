@@ -1,0 +1,146 @@
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\STM.exe.config
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\STM.exe
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\CommonAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\DBAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\DisplayAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\EQPAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\HostAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\InfoAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\LogAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\ucOvenSlotGlsInfo.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\NCCAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\ECCCommonAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\NSECS.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\CommandAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\NLog.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\NComm.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\PKAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\ScenarioAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\MessageAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\DummyAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\CommunicationAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\ECCDBAct.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\Interop.ACTMULTILib.dll
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\CommonAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\DBAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\InfoAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\LogAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\DisplayAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\EQPAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\HostAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\ucOvenSlotGlsInfo.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\NSECS.pdb
+D:\Project\B2 TSP\Source\STM\bin\x86\Release\CommunicationAct.xml
+D:\Project\B2 TSP\Source\STM\obj\x86\Release\STM.csprojResolveAssemblyReference.cache
+D:\Project\B2 TSP\Source\STM\obj\x86\Release\STM.frmLoading.resources
+D:\Project\B2 TSP\Source\STM\obj\x86\Release\STM.Properties.Resources.resources
+D:\Project\B2 TSP\Source\STM\obj\x86\Release\STM.csproj.GenerateResource.Cache
+D:\Project\B2 TSP\Source\STM\obj\x86\Release\STM.exe
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\STM.exe.config
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\STM.exe
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\CommonAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\DBAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\DisplayAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\EQPAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\HostAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\InfoAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\LogAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\NCCAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\ECCCommonAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\NSECS.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\CommandAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\NLog.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\NComm.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\PKAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\ScenarioAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\MessageAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\DummyAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\CommunicationAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\ECCDBAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\Interop.ACTMULTILib.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\CommonAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\DBAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\InfoAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\LogAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\DisplayAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\EQPAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\HostAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\NSECS.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\x86\Release\CommunicationAct.xml
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Release\STM.csprojResolveAssemblyReference.cache
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Release\STM.frmLoading.resources
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Release\STM.Properties.Resources.resources
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Release\STM.csproj.GenerateResource.Cache
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Release\STM.exe
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\STM.exe.config
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\STM.exe
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\CommonAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\DBAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\DisplayAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\EQPAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\HostAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\InfoAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\LogAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\NCCAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\ECCCommonAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\NSECS.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\CommandAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\NLog.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\NComm.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\LCAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\ScenarioAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\MessageAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\DummyAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\CommunicationAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\ECCDBAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\Interop.ACTMULTILib.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\CommonAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\DBAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\InfoAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\LogAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\DisplayAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\EQPAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\HostAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\NSECS.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\x86\Release\CommunicationAct.xml
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Release\STM.csprojResolveAssemblyReference.cache
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Release\STM.frmLoading.resources
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Release\STM.Properties.Resources.resources
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Release\STM.csproj.GenerateResource.Cache
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Release\STM.exe
+D:\Source\STM\bin\x86\Release\STM.exe.config
+D:\Source\STM\bin\x86\Release\STM.exe
+D:\Source\STM\bin\x86\Release\CommonAct.dll
+D:\Source\STM\bin\x86\Release\DBAct.dll
+D:\Source\STM\bin\x86\Release\DisplayAct.dll
+D:\Source\STM\bin\x86\Release\EQPAct.dll
+D:\Source\STM\bin\x86\Release\HostAct.dll
+D:\Source\STM\bin\x86\Release\InfoAct.dll
+D:\Source\STM\bin\x86\Release\LogAct.dll
+D:\Source\STM\bin\x86\Release\NCCAct.dll
+D:\Source\STM\bin\x86\Release\ECCCommonAct.dll
+D:\Source\STM\bin\x86\Release\NSECS.dll
+D:\Source\STM\bin\x86\Release\CommandAct.dll
+D:\Source\STM\bin\x86\Release\NLog.dll
+D:\Source\STM\bin\x86\Release\NComm.dll
+D:\Source\STM\bin\x86\Release\LCAct.dll
+D:\Source\STM\bin\x86\Release\ScenarioAct.dll
+D:\Source\STM\bin\x86\Release\MessageAct.dll
+D:\Source\STM\bin\x86\Release\DummyAct.dll
+D:\Source\STM\bin\x86\Release\CommunicationAct.dll
+D:\Source\STM\bin\x86\Release\ECCDBAct.dll
+D:\Source\STM\bin\x86\Release\Interop.ACTMULTILib.dll
+D:\Source\STM\bin\x86\Release\CommonAct.pdb
+D:\Source\STM\bin\x86\Release\DBAct.pdb
+D:\Source\STM\bin\x86\Release\InfoAct.pdb
+D:\Source\STM\bin\x86\Release\LogAct.pdb
+D:\Source\STM\bin\x86\Release\DisplayAct.pdb
+D:\Source\STM\bin\x86\Release\EQPAct.pdb
+D:\Source\STM\bin\x86\Release\HostAct.pdb
+D:\Source\STM\bin\x86\Release\NSECS.pdb
+D:\Source\STM\bin\x86\Release\CommunicationAct.xml
+D:\Source\STM\obj\x86\Release\STM.csprojResolveAssemblyReference.cache
+D:\Source\STM\obj\x86\Release\STM.frmLoading.resources
+D:\Source\STM\obj\x86\Release\STM.Properties.Resources.resources
+D:\Source\STM\obj\x86\Release\STM.csproj.GenerateResource.Cache
+D:\Source\STM\obj\x86\Release\STM.exe

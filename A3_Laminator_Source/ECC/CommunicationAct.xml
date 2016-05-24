@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommunicationAct</name>
+    </assembly>
+    <members>
+        <member name="T:CommunicationAct.clsMXComponent">
+             <summary>
+             <b>■ Melsec PLC의 Net10 통신 클래스 .</b><br/>
+             2007/06/18      네스텍 어 경태    최초작성
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funOpenConnection">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.subNetHWorkingSetSize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funCloseConnection">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funBitReadRandom(System.String,System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funBitReadRandom(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funBitReadBlock(System.String,System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funBitReadBlock(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.subBitWriteRandom(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.subBitWriteRandom(System.String,System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="EventAccept"></param>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funBitWriteRandom(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funBitWriteRandom(System.String,System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordReadRandom(System.String,System.String,ECCCommonAct.EnuCommunication.StringType,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <param name="DataType"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordReadRandom(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <param name="DataType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordReadBlock(System.String,System.String,ECCCommonAct.EnuCommunication.StringType,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <param name="DataType"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordReadBlock(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            
+            </summary>
+            <param name="ReadAddress"></param>
+            <param name="ReadLength"></param>
+            <param name="DataType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.subWordWriteRandom(System.String,System.String,ECCCommonAct.EnuCommunication.StringType,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="DataType"></param>
+            <param name="EventAccept"></param>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.subWordWriteRandom(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="DataType"></param>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordWriteRandom(System.String,System.String,ECCCommonAct.EnuCommunication.StringType,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="DataType"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordWriteRandom(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="DataType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordWriteBlock(System.String,System.String,ECCCommonAct.EnuCommunication.StringType,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="DataType"></param>
+            <param name="EventAccept"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsMXComponent.funWordWriteBlock(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            
+            </summary>
+            <param name="WriteAddress"></param>
+            <param name="WriteData"></param>
+            <param name="DataType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsUDP.funOpenConnection">
+             <summary>
+             TCP통신을 하기위한 IP와 Port를 Open한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+             2010/01/25 한상희 로그추가.
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsUDP.funCloseConnection">
+             <summary>
+             통신을 종료한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsUDP.subTransfer(System.String)">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="strMessage">전송할 데이타</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsUDP.subTransfer(System.Byte[])">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="bytMessage">전송할 데이타(Byte[])</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsUDP.subReceive(System.String)">
+             <summary>
+             장비로부터의 Receive Data를 자식에게 전달한다.
+             </summary>
+             <param name="strMessage">Receive Data(string)</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsUDP.subReceiveByte(System.Byte[],System.Int32)">
+             <summary>
+             장비로부터의 Receive Data를 자식에게 전달한다.
+             </summary>
+             <param name="bytMessage">Receive Data(Byte[])</param>
+             <param name="intByteLength">Receive Data의 길이</param>
+             <remarks>
+             2009/09/03      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="T:CommunicationAct.clsTCP">
+             <summary>
+             <b>■ TCP 통신 클래스 .</b><br/>
+             2007/06/18      네스텍 어 경태    최초작성
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.funOpenConnection">
+             <summary>
+             TCP통신을 하기위한 IP와 Port를 Open한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+             2010/01/25 한상희 로그추가.
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.funCloseConnection">
+             <summary>
+             통신을 종료한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.subTransfer(System.String)">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="strMessage">전송할 데이타</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.subTransfer(System.Byte[])">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="bytMessage">전송할 데이타(Byte[])</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.subReceive(System.String)">
+             <summary>
+             장비로부터의 Receive Data를 자식에게 전달한다.
+             </summary>
+             <param name="strMessage">Receive Data(string)</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.subReceiveByte(System.Byte[],System.Int32)">
+             <summary>
+             장비로부터의 Receive Data를 자식에게 전달한다.
+             </summary>
+             <param name="bytMessage">Receive Data(Byte[])</param>
+             <param name="intByteLength">Receive Data의 길이</param>
+             <remarks>
+             2009/09/03      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsTCP.subLogWrite(System.String)">
+            <summary>
+            ECC가 서버일 경우 접속 요청이 오면 접속을 허용함.
+            ECC가 클라이언트 일 경우 호출 되지 않음.
+            </summary>
+            <remarks>
+            2009/9/3    송 은선       최초작성
+            2010/1/13   한상희        하나만 Accept되는 걸로 변경.
+            </remarks>
+        </member>
+        <member name="T:CommunicationAct.clsNet10">
+             <summary>
+             <b>■ Melsec PLC의 Net10 통신 클래스 .</b><br/>
+             2007/06/18      네스텍 어 경태    최초작성
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funOpenConnection">
+             <summary>
+             Net10통신을 할수 있도록 Open한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funCloseConnection">
+             <summary>
+             통신을 종료한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funBitRead(System.String,System.String)">
+            <summary>
+            응용프로그램으로 명령을 받아 PLC로부터 Bit단위 데이타를 읽어들인다.(랜덤 읽기)
+            </summary>
+            <param name="ReadAddress">PLC로부터 읽을 주소번지</param>
+            <param name="ReadLength">읽어들이고자 하는 데이타의 길이</param>
+            <returns>읽은 Bit값</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.subBitWrite(System.String,System.String)">
+            <summary>
+            PLC에 Bit단위 데이타를 쓴다.(랜덤 쓰기)
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타</param>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funBitWrite(System.String,System.String)">
+            <summary>
+            PLC에 Bit단위 데이타를 쓴다.(랜덤 쓰기)
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타</param>
+            <returns>성공여부 => True : 성공, False : 실패</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funWordRead(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            응용프로그램으로 명령을 받아 PLC로부터 Word단위 데이타를 읽어들인다.(일괄 읽기)
+            </summary>
+            <param name="ReadAddress">PLC로부터 읽어들인 주소번지</param>
+            <param name="ReadLength">읽어들이고자 하는 데이타의 길이</param>
+            <param name="DataType">DataType</param>
+            <returns>읽어들인 Word 값</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.subWordWrite(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            PLC에 Word단위 데이타를 쓴다.
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타.</param>
+            <param name="DataType">DataType</param>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funWordWrite(System.String,System.String,ECCCommonAct.EnuCommunication.StringType)">
+            <summary>
+            PLC에 Word단위 데이타를 쓴다.
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타.</param>
+            <param name="DataType">DataType</param>
+            <returns>성공여부 => True : 성공, False : 실패</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funBitReadRandom(System.String,System.String)">
+            <summary>
+            응용프로그램으로 명령을 받아 PLC로부터 Bit단위 데이타를 읽어들인다.(랜덤 읽기)
+            </summary>
+            <param name="ReadAddress">PLC로부터 읽을 주소번지</param>
+            <param name="ReadLength">읽어들이고자 하는 데이타의 길이</param>
+            <returns>읽은 Bit값</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funBitReadBlock(System.String,System.String)">
+            <summary>
+            응용프로그램으로 명령을 받아 PLC로부터 Bit단위 데이타를 읽어들인다.(일괄 읽기) 
+            '랜덤 읽기' 보다 속도가 빠르기 때문에 주로 Scan시 사용함.
+            </summary>
+            <param name="ReadAddress">PLC로부터 읽을 주소번지</param>
+            <param name="ReadLength">읽어들이고자 하는 데이타의 길이</param>
+            <returns>읽은 Bit값</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funBitWriteRandom(System.String,System.String)">
+            <summary>
+            PLC에 Bit단위 데이타를 쓴다.(랜덤 쓰기)
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타</param>
+            <returns>성공여부 => True : 성공, False : 실패</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funWordReadRandom(System.String,System.String)">
+            <summary>
+            응용프로그램으로 명령을 받아 PLC로부터 Word단위 데이타를 읽어들인다.(랜덤 읽기)
+            </summary>
+            <param name="ReadAddress">PLC로부터 읽어들인 주소번지</param>
+            <param name="ReadLength">읽어들이고자 하는 데이타의 길이</param>
+            <returns>읽어들인 Word 값</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funWordReadBlock(System.String,System.String)">
+            <summary>
+            응용프로그램으로 명령을 받아 PLC로부터 Word단위 데이타를 읽어들인다.(일괄 읽기)
+            </summary>
+            <param name="ReadAddress">PLC로부터 읽어들인 주소번지</param>
+            <param name="ReadLength">읽어들이고자 하는 데이타의 길이</param>
+            <returns>읽어들인 Word 값</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funWordWriteBlock(System.String,System.String)">
+            <summary>
+            PLC에 Word단위 데이타를 쓴다.(일괄 쓰기)
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타.</param>
+            <returns>성공여부 => True : 성공, False : 실패</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsNet10.funWordWriteRandom(System.String,System.String)">
+            <summary>
+            PLC에 Word단위 데이타를 쓴다.(랜덤 쓰기)
+            </summary>
+            <param name="WriteAddress">PLC에 쓰고자하는 주소시작번지</param>
+            <param name="WriteData">쓰려고하는 데이타.</param>
+            <returns>성공여부 => True : 성공, False : 실패</returns>
+            <remarks>
+            2009/09/14      김 효주     최초작성
+            </remarks>
+        </member>
+        <member name="T:CommunicationAct.clsLogMng">
+            <summary>
+            로그생성/관리 클래스
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.#ctor">
+            <summary>
+            clsLogMng 생성자.
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.subLogInit(System.String,System.String,System.Int32)">
+            <summary>
+            로그 정보 Init.
+            </summary>
+            <param name="strFilePath"></param>
+            <param name="strFileName"></param>
+            <param name="dintLogDays"></param>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.subLogDeInit">
+            <summary>
+            DeInit.
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.funWriteLog(System.Byte[])">
+            <summary>
+            날짜 String을 붙여 pMsgLogQueue에 추가한다.
+            </summary>
+            <param name="bytLog"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.funWriteLog(System.String)">
+            <summary>
+            날짜 String을 붙여 pMsgLogQueue에 추가한다.
+            </summary>
+            <param name="bytLog"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.subCheckWriteLog">
+            <summary>
+            pMsgLogQueue를 감시하면서 로그파일을 남긴다.
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.subCheckDeleteLog">
+            <summary>
+            로그 자동삭제
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsLogMng.subLogWrite(System.String)">
+            <summary>
+            write Log
+            </summary>
+            <param name="strLog"></param>
+        </member>
+        <member name="T:CommunicationAct.clsMSSQL">
+             <summary>
+             <b>■ SQL 통신 클래스 .</b><br/>
+             2007/09/16      네스텍 송 은선    최초작성
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.funOpenConnection">
+             <summary>
+             SQL통신을 하기 위해 DB에 접속하는 클래스
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2009/09/16      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.funCloseConnection">
+             <summary>
+             SQL통신을 종료 하기 위해 DB와의 접속을 종료하는 클래스
+             </summary>
+             <returns> Close성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2009/09/16      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.subTransfer(System.String)">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="strMessage">전송할 데이타</param>
+             <remarks>
+             2009/09/17      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.funTransfer(System.String)">
+             <summary>
+             SQL Query문을 SQL에 작업한다.
+             </summary>
+             <returns> true = 성공, false = 실패 </returns>
+             <param name="strMessage">SQL Query문</param>
+             <remarks>
+             2009/09/17      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.subReceive(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="Message"></param>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.subReceiveByte(System.Byte[],System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="Message"></param>
+            <param name="intByteLength"></param>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.funExecute(System.String,System.Data.DataTable@)">
+            <summary>
+            'select' 쿼리를 수행하여 DataTable 형태로 수행결과를 리턴해준다.
+            </summary>
+            <param name="strQuery">수행할 쿼리.</param>
+            <param name="dtt">Reference Type의 함수인자로 select 수행후 결과값을 갖는다.</param>
+            <returns>Succ. => true, Fail => false</returns>
+            <remarks>
+            2009/10/01 한상희 최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.funExecute(System.String)">
+            <summary>
+            하나의 'insert' or 'update' or 'delete' 쿼리를 수행한다.
+            </summary>
+            <param name="strQuery">수행할 쿼리.</param>
+            <returns>Succ. => true, Fail => false</returns>
+            <remarks>
+            2009/10/01 한상희 최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.funExecute(System.Text.StringBuilder)">
+            <summary>
+            여러개의 'insert' or 'update' or 'delete' 쿼리를 수행한다.
+            </summary>
+            <param name="strQuery">수행할 쿼리로 쿼리는 '\r\n'으로 구분되어야 한다.</param>
+            <returns>Succ. => true, Fail => false</returns>
+            <remarks>
+            2009/10/01 한상희 최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.subTransactionCommit">
+            <summary>
+            Transaction Commit.
+            </summary>
+            <remarks>
+            2009/10/07 한상희 최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.clsMSSQL.subTransactionRollBack">
+            <summary>
+            Transaction Rollback.
+            </summary>
+            <remarks>
+            2009/10/07 한상희 최초작성
+            </remarks>
+        </member>
+        <member name="T:CommunicationAct.cls232">
+             <summary>
+             <b>■ RS-232 통신 클래스 .</b><br/>
+             2007/06/18      네스텍 어 경태    최초작성
+            </summary>
+        </member>
+        <member name="M:CommunicationAct.cls232.funOpenConnection">
+             <summary>
+             RS-232 Port를 Open한다.
+             </summary>
+             <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/21      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.cls232.funCloseConnection">
+             <summary>
+             통신을 종료한다.
+             </summary>
+             <returns> 성공여부 => True : 성공, False : 실패 </returns>
+             <remarks>
+             2007/06/21      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.cls232.subTransfer(System.String)">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="strMessage">전송할 데이타</param>
+             <remarks>
+             2007/06/21      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.cls232.subTransfer(System.Byte[])">
+            <summary>
+             데이타를 장비로 전송한다.
+            </summary>
+            <param name="Message"></param>
+        </member>
+        <member name="M:CommunicationAct.cls232.subReceive(System.String)">
+             <summary>
+             장비로부터의 Receive Data를 자식에게 전달한다.
+             </summary>
+             <param name="strMessage">Receive Data</param>
+             <remarks>
+             2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:CommunicationAct.cls232.subReceiveByte(System.Byte[],System.Int32)">
+             <summary>
+             장비로부터의 Receive Data를 자식에게 전달한다.
+             </summary>
+             <param name="bytMessage">Receive Data(Byte[])</param>
+             <param name="intByteLength">Receive Data의 길이</param>
+             <remarks>
+             2009/09/03      송 은선     최초작성
+            </remarks>
+        </member>
+    </members>
+</doc>

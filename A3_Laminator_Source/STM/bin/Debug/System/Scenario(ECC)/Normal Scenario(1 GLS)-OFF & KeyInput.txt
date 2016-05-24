@@ -1,0 +1,43 @@
+//'Normal Scenario(1 GLS)
+do
+{
+//'GLS, LOT APD 정보
+FIle Initialize.txt
+
+//'VCR OFF-KeyInput MODE
+PLC(W1511,4,D)
+PLC(B150F,1)
+PLC(B1026,1)
+
+//'1번째 GLS 정보
+FIle 1번째 GLS 정보(End Flag 있는것).txt
+PLC(B1526,1)
+
+//'전체 장비 상태 Execute
+PLC(B1603,000010)
+Delay,2
+//'Unit1 Execute
+PLC(B1643,000010)
+//'전체 장비 GLS 있음
+PLC(B160B,1)
+//'Unit1 GLS Arrive(Start)
+PLC(B1548,1)
+Delay,2
+
+//''''''''VCR'''''''''''''
+//'OFF & KeyInput임
+
+//'KeyInput이므로 PLC T/P에 창을 띄움.
+//'OP가 GLSID를 입력함
+PLC(W1513,OPGLSID01    ,A)
+PLC(B152B,1)
+Delay,2
+//''''''''VCR'''''''''''''
+
+//'Unit1(CV01) Departure~Unit20(UL01) Departure
+FIle Unit1(CV01) Departure~Unit20(UL01) Departure.txt
+
+}
+while(1)
+
+

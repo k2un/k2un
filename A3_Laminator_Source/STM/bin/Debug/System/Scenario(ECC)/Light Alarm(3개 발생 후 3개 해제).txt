@@ -1,0 +1,40 @@
+//'Light Alarm
+
+//'Light Alarm 발생(AlarmID=1201)
+PLC(W1500,1201,D)
+PLC(B1508,1)
+Delay,2
+
+//'장비 전체 Alarm 여부(On: 있음)
+PLC(B160A,1)
+
+//'Light Alarm 발생(AlarmID=1202)
+PLC(W1500,1202,D)
+PLC(B1508,1)
+Delay,2
+
+//'Light Alarm 발생(AlarmID=1203)
+PLC(W1500,1203,D)
+PLC(B1508,1)
+Delay,2
+
+
+//'Light Alarm 해제(AlarmID=1201)
+PLC(W1502,1201,D)
+PLC(B1509,1)
+Delay,2
+
+//'Light Alarm 해제(AlarmID=1202)
+PLC(W1502,1202,D)
+PLC(B1509,1)
+Delay,2
+
+//'Light Alarm 해제(AlarmID=1203)
+PLC(W1502,1203,D)
+PLC(B1509,1)
+Delay,2
+
+//'장비 전체 Alarm 여부(Off: 없음)
+PLC(B160A,0)
+
+

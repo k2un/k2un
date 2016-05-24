@@ -1,0 +1,12 @@
+//'현재 운영중인 PPID 변경보고
+//'HOST PPID는 D로
+//'EQPPPID는 2로
+
+//'HOSTPPID
+PLC(W1504,D,A)
+//'EQPPPID
+PLC(W1520,2,D)
+
+//'현재 운영중인 PPID 변경 ON
+PLC(B150D,1)
+

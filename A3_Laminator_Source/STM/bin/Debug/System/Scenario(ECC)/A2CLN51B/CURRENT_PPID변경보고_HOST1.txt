@@ -1,0 +1,7 @@
+// current eqp ppid
+PLC(W2510,1,D)
+// current host ppid
+PLC(W2504,HOST1               ,A)
+
+// 현재운영중인 PPID 변경보고
+PLC(B150D,1)

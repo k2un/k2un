@@ -1,0 +1,55 @@
+//'GLS, LOT 실처리 Test용(1 GLS).txt
+
+//'GLS, LOT APD 정보
+FIle Initialize.txt
+
+//'1번째 GLS 정보
+FIle 1번째 GLS 정보(End Flag 있는것).txt
+
+
+//'Unit1 Execute
+PLC(B1643,000010)
+//'전체 장비 상태 Execute
+PLC(B1603,000010)
+Delay,2
+//'전체 장비 GLS 있음
+PLC(B160B,1)
+//'Unit1 GLS Arrive(Start)
+PLC(B1548,1)
+Delay,2
+//'Unit1 GLS Depature(End)
+//'GLS Data
+PLC(W1748,LOTID01,A)
+PLC(W174F,1,A)
+PLC(B1578,1)
+//'Unit1 Idle
+PLC(B1643,010000)
+
+//'바로 Unit20으로 점프한다.
+//'실처리 Test를 위해
+
+//'Unit20 Execute
+PLC(B1773,000010)
+//'Unit20 GLS Arrive(Start)
+//'GLS Data
+PLC(W1870,LOTID01,A)
+PLC(W1877,1,A)
+PLC(B156B,1)
+Delay,2
+//'Unit20 GLS Depature(End)
+//'GLS Data
+PLC(W1878,LOTID01,A)
+PLC(W187F,1,A)
+PLC(B159B,1)
+//'전체 장비 GLS 없음
+PLC(B160B,0)
+//'Unit20 Idle
+PLC(B1773,010000)
+
+//'전체 장비 상태 Idle
+PLC(B1603,010000)
+
+
+
+
+

@@ -1,0 +1,43 @@
+//'NORMAL에서 FAULT(EQP) & Heavy Alarm - 2번째.txt
+//'AK01에서 중도 Alarm발생
+//'AK01 Pause, Fault로 전환
+
+'Heavy Alarm 발생
+PLC(W1500,102,D)
+PLC(B1508,1)
+
+//'장비 전체 Alarm 여부(On: 있음)
+PLC(B160A,1)
+
+//'Unit19(AK01) Pause
+PLC(B1763,000001)
+//'Unit19(AK01) Fault
+PLC(B1760,010)
+
+
+//'장비전체 Pause
+PLC(B1603,000001)
+//'장비전체 Fault
+PLC(B1600,010)
+Delay,3
+
+
+//'Heavy Alarm 해제
+PLC(W1502,102,D)
+PLC(B1509,1)
+
+//'장비 전체 Alarm 여부(Off: 없음)
+PLC(B160A,0)
+
+//'Unit19(AK01) Idle
+PLC(B1763,010000)
+//'Unit19(AK01) Normal
+PLC(B1760,100)
+
+
+//'장비전체 Idle
+PLC(B1603,010000)
+//'장비전체 Normal
+PLC(B1600,100)
+
+

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\CommonAct.dll
+bin\Debug\CommonAct.pdb
+obj\Debug\CommonAct.dll
+obj\Debug\CommonAct.pdb
+bin\Release\CommonAct.dll
+bin\Release\CommonAct.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CommonAct.dll
+obj\Release\CommonAct.pdb

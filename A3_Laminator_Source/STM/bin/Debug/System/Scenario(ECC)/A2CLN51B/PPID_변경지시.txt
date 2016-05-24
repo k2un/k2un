@@ -1,0 +1,24 @@
+do
+{
+
+if(PLC(B1034,1)==1)
+{
+eqp = PLC(W1040,64,H)
+PLC(B1534,1)
+
+PLC(W26C0,eqp,H)
+PLC(B153B,1)
+}
+
+if(PLC(B1036,1)==1)
+{
+host = PLC(W1040,64,H)
+PLC(B1536,1)
+
+PLC(W26C0,host,H)
+PLC(B153C,1)
+}
+
+
+}
+while(1)

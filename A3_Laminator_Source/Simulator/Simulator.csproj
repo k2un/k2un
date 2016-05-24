@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7AADBA18-F31A-4494-9BD7-3DEC0E55DEDF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Simulator</RootNamespace>
+    <AssemblyName>Simulator</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainView.Designer.cs">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PPIDCreater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PPIDCreater.Designer.cs">
+      <DependentUpon>PPIDCreater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PpidManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PpidManager.Designer.cs">
+      <DependentUpon>PpidManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PpidType1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PpidType1.Designer.cs">
+      <DependentUpon>PpidType1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PpidType2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PpidType2.Designer.cs">
+      <DependentUpon>PpidType2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info\BitAddress.cs" />
+    <Compile Include="Info\Constant.cs" />
+    <Compile Include="Info\Item.cs" />
+    <Compile Include="Info\Parameter.cs" />
+    <Compile Include="Info\ProcessCommand.cs" />
+    <Compile Include="Info\ProcessProgram.cs" />
+    <Compile Include="Info\RecipeEventArgs.cs" />
+    <Compile Include="Info\Unit.cs" />
+    <Compile Include="Simulator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\MainView.resx">
+      <DependentUpon>MainView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PPIDCreater.resx">
+      <DependentUpon>PPIDCreater.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PpidManager.resx">
+      <DependentUpon>PpidManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PpidType1.resx">
+      <DependentUpon>PpidType1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PpidType2.resx">
+      <DependentUpon>PpidType2.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\CommonAct\CommonAct.csproj">
+      <Project>{A321161C-60F4-4549-8433-126A8A858AA6}</Project>
+      <Name>CommonAct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EQPAct\EQPAct.csproj">
+      <Project>{8FE0C61C-1441-4310-9703-8B10C2F83251}</Project>
+      <Name>EQPAct</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

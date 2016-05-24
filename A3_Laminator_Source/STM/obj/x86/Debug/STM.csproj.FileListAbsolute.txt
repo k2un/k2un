@@ -1,0 +1,850 @@
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\x86\Debug\STM.exe.config
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\Interop.SEComPlugInLib.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\Interop.VBA.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\STM.csproj.ResolveComReference.cache
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\STM.exe.config
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\STM.exe
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\STM.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\CommonAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\DBAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\DisplayAct.exe
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\EQPAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\HostAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\InfoAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\LogAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NCCAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\ECCCommonAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NSECS.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\CommandAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NLog.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NComm.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\PKAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\ScenarioAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\MessageAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\DummyAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\CommunicationAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\ECCDBAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\CommonAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\DBAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\InfoAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\LogAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\EQPAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\HostAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\DisplayAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NSECS.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\Interop.SEComPlugInLib.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\Interop.VBA.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\STM.exe
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\obj\x86\Debug\STM.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NestecControls.OvenRack.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NestecControls.Slot.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NestecControls.OvenRack.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\NestecControls.Slot.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU\STM\bin\Debug\CommunicationAct.xml
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\STM.exe.config
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\Interop.SEComPlugInLib.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\Interop.VBA.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\STM.csproj.ResolveComReference.cache
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\STM.exe
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\STM.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\STM.exe
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\STM.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\CommonAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\DBAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\DisplayAct.exe
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\EQPAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\HostAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\InfoAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\LogAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NCCAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\ECCCommonAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NSECS.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NestecControls.OvenRack.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\CommandAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NLog.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NComm.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\PKAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NestecControls.Slot.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\ScenarioAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\MessageAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\DummyAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\CommunicationAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\ECCDBAct.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\CommonAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\DBAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\InfoAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\LogAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\EQPAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\HostAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\DisplayAct.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NSECS.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NestecControls.OvenRack.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\NestecControls.Slot.pdb
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\CommunicationAct.xml
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\Interop.SEComPlugInLib.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\bin\Debug\Interop.VBA.dll
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\1.업무\2.프로젝트\YEST\1.SMD_V1_CleanCureOven\1.Program\YEST_DUALOVEN_V1ENS03A_CURU_EMPTY\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\STM.exe
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\STM.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\CommonAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\DBAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\DisplayAct.exe
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\EQPAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\HostAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\InfoAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\LogAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\NCCAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\NSECS.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\CommandAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\NLog.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\NComm.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\PKAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\ScenarioAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\MessageAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\DummyAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\CommunicationAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\ECCDBAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\CommonAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\DBAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\InfoAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\LogAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\EQPAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\HostAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\DisplayAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\STM.exe.config
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\Interop.SEComPlugInLib.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\Interop.VBA.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.csproj.ResolveComReference.cache
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.exe
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\NSECS.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\CommunicationAct.xml
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\Interop.SEComPlugInLib.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\bin\Debug\Interop.VBA.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\SMD\A3\Hims\A2E Glass Inspector\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\STM.exe.config
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\Interop.SEComPlugInLib.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\Interop.VBA.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.csproj.ResolveComReference.cache
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.exe
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\STM.exe
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\STM.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\CommonAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\DBAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\DisplayAct.exe
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\EQPAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\HostAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\InfoAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\LogAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\NCCAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\NSECS.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\CommandAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\NLog.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\NComm.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\PKAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\ScenarioAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\MessageAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\DummyAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\CommunicationAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\ECCDBAct.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\CommonAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\DBAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\InfoAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\LogAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\EQPAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\HostAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\DisplayAct.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\NSECS.pdb
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\CommunicationAct.xml
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\Interop.SEComPlugInLib.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\bin\Debug\Interop.VBA.dll
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\SMD\A3\Hims\A2E Glass Inspector_121123\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\STM.exe.config
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\Interop.SEComPlugInLib.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\Interop.VBA.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\STM.csproj.ResolveComReference.cache
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\STM.exe
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\STM.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\STM.exe
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\STM.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\CommonAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\DBAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\DisplayAct.exe
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\EQPAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\HostAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\InfoAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\LogAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\NCCAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\ECCCommonAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\NSECS.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\CommandAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\NLog.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\NComm.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\PKAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\ScenarioAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\MessageAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\DummyAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\CommunicationAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\ECCDBAct.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\CommonAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\DBAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\InfoAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\LogAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\EQPAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\HostAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\DisplayAct.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\NSECS.pdb
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\CommunicationAct.xml
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\Interop.SEComPlugInLib.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\bin\Debug\Interop.VBA.dll
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project Files\HIMS\A2E_TFE_검사기\A2E Glass Inspector_121127_\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\STM.exe.config
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\Interop.SEComPlugInLib.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\Interop.VBA.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.csproj.ResolveComReference.cache
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.exe
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\STM.exe
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\STM.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\CommonAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\DBAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\DisplayAct.exe
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\EQPAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\HostAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\InfoAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\LogAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NCCAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NSECS.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\CommandAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NLog.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NComm.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\PKAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\ScenarioAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\MessageAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\DummyAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\CommunicationAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\ECCDBAct.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\CommonAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\DBAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\InfoAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\LogAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\EQPAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\HostAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\DisplayAct.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NSECS.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\CommunicationAct.xml
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\Interop.SEComPlugInLib.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\Interop.VBA.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NestecControls.GlassInfo.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NestecControls.Unit.dll
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NestecControls.GlassInfo.pdb
+D:\Project\SMD\A3\DMS\A2E PolyCleaner\STM\bin\Debug\NestecControls.Unit.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\STM.exe.config
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\STM.exe
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\STM.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\CommonAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\DBAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\DisplayAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\EQPAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\HostAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\InfoAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\LogAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NestecControls.GlassInfo.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NestecControls.Unit.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NCCAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\ECCCommonAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NSECS.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\CommandAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NLog.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NComm.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\ScenarioAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\MessageAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\DummyAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\CommunicationAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\ECCDBAct.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\CommonAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\DBAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\InfoAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\LogAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\DisplayAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\EQPAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\HostAct.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NestecControls.GlassInfo.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\NestecControls.Unit.pdb
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\bin\Debug\CommunicationAct.xml
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\obj\x86\Debug\STM.exe
+D:\Project Files\DMS\DMS A2E\DMS_A2E_Base\A2E PolyCleaner\STM\obj\x86\Debug\STM.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\STM.exe.config
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\STM.exe
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\STM.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\CommonAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\DBAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\DisplayAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\EQPAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\HostAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\InfoAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\LogAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\ucOvenSlotGlsInfo.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\NCCAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\NSECS.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\CommandAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\NLog.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\NComm.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\PKAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\ScenarioAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\MessageAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\DummyAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\CommunicationAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\ECCDBAct.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\CommonAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\DBAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\InfoAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\LogAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\DisplayAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\EQPAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\HostAct.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\ucOvenSlotGlsInfo.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\NSECS.pdb
+D:\Project\B2 TSP\Source - 복사본\STM\bin\Debug\CommunicationAct.xml
+D:\Project\B2 TSP\Source - 복사본\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\B2 TSP\Source - 복사본\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\B2 TSP\Source - 복사본\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\B2 TSP\Source - 복사본\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project\B2 TSP\Source - 복사본\STM\obj\x86\Debug\STM.exe
+D:\Project\B2 TSP\Source - 복사본\STM\obj\x86\Debug\STM.pdb
+D:\CIM\Source\STM\bin\Debug\STM.exe.config
+D:\CIM\Source\STM\bin\Debug\STM.exe
+D:\CIM\Source\STM\bin\Debug\STM.pdb
+D:\CIM\Source\STM\bin\Debug\CommonAct.dll
+D:\CIM\Source\STM\bin\Debug\DBAct.dll
+D:\CIM\Source\STM\bin\Debug\DisplayAct.dll
+D:\CIM\Source\STM\bin\Debug\EQPAct.dll
+D:\CIM\Source\STM\bin\Debug\HostAct.dll
+D:\CIM\Source\STM\bin\Debug\InfoAct.dll
+D:\CIM\Source\STM\bin\Debug\LogAct.dll
+D:\CIM\Source\STM\bin\Debug\ucOvenSlotGlsInfo.dll
+D:\CIM\Source\STM\bin\Debug\NCCAct.dll
+D:\CIM\Source\STM\bin\Debug\ECCCommonAct.dll
+D:\CIM\Source\STM\bin\Debug\NSECS.dll
+D:\CIM\Source\STM\bin\Debug\CommandAct.dll
+D:\CIM\Source\STM\bin\Debug\NLog.dll
+D:\CIM\Source\STM\bin\Debug\NComm.dll
+D:\CIM\Source\STM\bin\Debug\PKAct.dll
+D:\CIM\Source\STM\bin\Debug\ScenarioAct.dll
+D:\CIM\Source\STM\bin\Debug\MessageAct.dll
+D:\CIM\Source\STM\bin\Debug\DummyAct.dll
+D:\CIM\Source\STM\bin\Debug\CommunicationAct.dll
+D:\CIM\Source\STM\bin\Debug\ECCDBAct.dll
+D:\CIM\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\CIM\Source\STM\bin\Debug\CommonAct.pdb
+D:\CIM\Source\STM\bin\Debug\DBAct.pdb
+D:\CIM\Source\STM\bin\Debug\InfoAct.pdb
+D:\CIM\Source\STM\bin\Debug\LogAct.pdb
+D:\CIM\Source\STM\bin\Debug\DisplayAct.pdb
+D:\CIM\Source\STM\bin\Debug\EQPAct.pdb
+D:\CIM\Source\STM\bin\Debug\HostAct.pdb
+D:\CIM\Source\STM\bin\Debug\ucOvenSlotGlsInfo.pdb
+D:\CIM\Source\STM\bin\Debug\NSECS.pdb
+D:\CIM\Source\STM\bin\Debug\CommunicationAct.xml
+D:\CIM\Source\STM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CIM\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\CIM\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\CIM\Source\STM\obj\x86\Debug\STM.exe
+D:\CIM\Source\STM\obj\x86\Debug\STM.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\STM.exe.config
+D:\Project\B2 TSP\Source\STM\bin\Debug\STM.exe
+D:\Project\B2 TSP\Source\STM\bin\Debug\STM.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\CommonAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\DBAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\DisplayAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\EQPAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\HostAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\InfoAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\LogAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\ucOvenSlotGlsInfo.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\NCCAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\NSECS.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\CommandAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\NLog.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\NComm.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\PKAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\ScenarioAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\MessageAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\DummyAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\CommunicationAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\ECCDBAct.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\B2 TSP\Source\STM\bin\Debug\CommonAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\DBAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\InfoAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\LogAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\DisplayAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\EQPAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\HostAct.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\ucOvenSlotGlsInfo.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\NSECS.pdb
+D:\Project\B2 TSP\Source\STM\bin\Debug\CommunicationAct.xml
+D:\Project\B2 TSP\Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\B2 TSP\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\B2 TSP\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\B2 TSP\Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project\B2 TSP\Source\STM\obj\x86\Debug\STM.exe
+D:\Project\B2 TSP\Source\STM\obj\x86\Debug\STM.pdb
+D:\CIM\Source_140626\STM\bin\Debug\STM.exe.config
+D:\CIM\Source_140626\STM\obj\x86\Debug\STM.exe
+D:\CIM\Source_140626\STM\obj\x86\Debug\STM.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\STM.exe.config
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\STM.exe
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\STM.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\CommonAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\DBAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\DisplayAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\EQPAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\HostAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\InfoAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\LogAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\NCCAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\NSECS.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\CommandAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\NLog.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\NComm.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\PKAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\ScenarioAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\MessageAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\DummyAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\CommunicationAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\ECCDBAct.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\CommonAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\DBAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\InfoAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\LogAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\EQPAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\HostAct.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\NSECS.pdb
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\bin\Debug\CommunicationAct.xml
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\obj\x86\Debug\STM.exe
+D:\Project\기흥\SUNTEC\새 폴더\Source\STM\obj\x86\Debug\STM.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\STM.exe.config
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\STM.exe
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\STM.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommonAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DBAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DisplayAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\EQPAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\HostAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\InfoAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\LogAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NCCAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\ECCCommonAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NSECS.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommandAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NLog.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NComm.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\PKAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\ScenarioAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\MessageAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DummyAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommunicationAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\ECCDBAct.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommonAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DBAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\InfoAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\LogAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DisplayAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\EQPAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\HostAct.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NSECS.pdb
+D:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommunicationAct.xml
+D:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.exe
+D:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\STM.exe.config
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\STM.exe
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\STM.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommonAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DBAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DisplayAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\EQPAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\HostAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\InfoAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\LogAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NCCAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\ECCCommonAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NSECS.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommandAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NLog.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NComm.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\ScenarioAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\MessageAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DummyAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommunicationAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\ECCDBAct.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommonAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DBAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\InfoAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\LogAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\DisplayAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\EQPAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\HostAct.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\NSECS.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\CommunicationAct.xml
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.exe
+E:\Project\기흥\SUNTEC\Source\STM\obj\x86\Debug\STM.pdb
+E:\Project\기흥\SUNTEC\Source\STM\bin\Debug\LCAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\STM.exe.config
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\STM.exe
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\STM.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\CommonAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\DBAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\DisplayAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\EQPAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\HostAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\InfoAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\LogAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\NCCAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\ECCCommonAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\NSECS.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\CommandAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\NLog.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\NComm.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\LCAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\ScenarioAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\MessageAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\DummyAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\CommunicationAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\ECCDBAct.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\CommonAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\DBAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\InfoAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\LogAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\DisplayAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\EQPAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\HostAct.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\NSECS.pdb
+E:\Project\SMD\A3\SUNTEC\Source\STM\bin\Debug\CommunicationAct.xml
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Debug\STM.exe
+E:\Project\SMD\A3\SUNTEC\Source\STM\obj\x86\Debug\STM.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\STM.exe.config
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\obj\x86\Debug\STM.exe
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\obj\x86\Debug\STM.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\STM.exe
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\STM.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\CommonAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\DBAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\DisplayAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\EQPAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\HostAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\InfoAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\LogAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\NCCAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\ECCCommonAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\NSECS.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\CommandAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\NComm.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\LCAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\ScenarioAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\MessageAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\DummyAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\CommunicationAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\ECCDBAct.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\CommonAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\DBAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\InfoAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\LogAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\DisplayAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\EQPAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\HostAct.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\NSECS.pdb
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\bin\Debug\CommunicationAct.xml
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\obj\x86\Debug\STM.frmLoading.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\obj\x86\Debug\STM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\곤줄박이\Source_하부\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Source1\STM\bin\Debug\STM.exe.config
+D:\Source1\STM\obj\x86\Debug\STM.exe
+D:\Source1\STM\obj\x86\Debug\STM.pdb
+D:\Source1\STM\bin\Debug\STM.exe
+D:\Source1\STM\bin\Debug\STM.pdb
+D:\Source1\STM\bin\Debug\CommonAct.dll
+D:\Source1\STM\bin\Debug\DBAct.dll
+D:\Source1\STM\bin\Debug\DisplayAct.dll
+D:\Source1\STM\bin\Debug\EQPAct.dll
+D:\Source1\STM\bin\Debug\HostAct.dll
+D:\Source1\STM\bin\Debug\InfoAct.dll
+D:\Source1\STM\bin\Debug\LogAct.dll
+D:\Source1\STM\bin\Debug\NCCAct.dll
+D:\Source1\STM\bin\Debug\ECCCommonAct.dll
+D:\Source1\STM\bin\Debug\NSECS.dll
+D:\Source1\STM\bin\Debug\CommandAct.dll
+D:\Source1\STM\bin\Debug\NLog.dll
+D:\Source1\STM\bin\Debug\NComm.dll
+D:\Source1\STM\bin\Debug\LCAct.dll
+D:\Source1\STM\bin\Debug\ScenarioAct.dll
+D:\Source1\STM\bin\Debug\MessageAct.dll
+D:\Source1\STM\bin\Debug\DummyAct.dll
+D:\Source1\STM\bin\Debug\CommunicationAct.dll
+D:\Source1\STM\bin\Debug\ECCDBAct.dll
+D:\Source1\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Source1\STM\bin\Debug\CommonAct.pdb
+D:\Source1\STM\bin\Debug\DBAct.pdb
+D:\Source1\STM\bin\Debug\InfoAct.pdb
+D:\Source1\STM\bin\Debug\LogAct.pdb
+D:\Source1\STM\bin\Debug\DisplayAct.pdb
+D:\Source1\STM\bin\Debug\EQPAct.pdb
+D:\Source1\STM\bin\Debug\HostAct.pdb
+D:\Source1\STM\bin\Debug\NSECS.pdb
+D:\Source1\STM\bin\Debug\CommunicationAct.xml
+D:\Source1\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Source1\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Source1\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Source1\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Source2\STM\bin\Debug\STM.exe.config
+D:\Source2\STM\obj\x86\Debug\STM.exe
+D:\Source2\STM\obj\x86\Debug\STM.pdb
+D:\Source2\STM\bin\Debug\STM.exe
+D:\Source2\STM\bin\Debug\STM.pdb
+D:\Source2\STM\bin\Debug\CommonAct.dll
+D:\Source2\STM\bin\Debug\DBAct.dll
+D:\Source2\STM\bin\Debug\DisplayAct.dll
+D:\Source2\STM\bin\Debug\EQPAct.dll
+D:\Source2\STM\bin\Debug\HostAct.dll
+D:\Source2\STM\bin\Debug\InfoAct.dll
+D:\Source2\STM\bin\Debug\LogAct.dll
+D:\Source2\STM\bin\Debug\NCCAct.dll
+D:\Source2\STM\bin\Debug\ECCCommonAct.dll
+D:\Source2\STM\bin\Debug\NSECS.dll
+D:\Source2\STM\bin\Debug\CommandAct.dll
+D:\Source2\STM\bin\Debug\NLog.dll
+D:\Source2\STM\bin\Debug\NComm.dll
+D:\Source2\STM\bin\Debug\LCAct.dll
+D:\Source2\STM\bin\Debug\ScenarioAct.dll
+D:\Source2\STM\bin\Debug\MessageAct.dll
+D:\Source2\STM\bin\Debug\DummyAct.dll
+D:\Source2\STM\bin\Debug\CommunicationAct.dll
+D:\Source2\STM\bin\Debug\ECCDBAct.dll
+D:\Source2\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Source2\STM\bin\Debug\CommonAct.pdb
+D:\Source2\STM\bin\Debug\DBAct.pdb
+D:\Source2\STM\bin\Debug\InfoAct.pdb
+D:\Source2\STM\bin\Debug\LogAct.pdb
+D:\Source2\STM\bin\Debug\DisplayAct.pdb
+D:\Source2\STM\bin\Debug\EQPAct.pdb
+D:\Source2\STM\bin\Debug\HostAct.pdb
+D:\Source2\STM\bin\Debug\NSECS.pdb
+D:\Source2\STM\bin\Debug\CommunicationAct.xml
+D:\Source2\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Source2\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Source2\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Source2\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Source - 복사본\STM\bin\Debug\STM.exe.config
+D:\Source - 복사본\STM\bin\Debug\STM.exe
+D:\Source - 복사본\STM\bin\Debug\STM.pdb
+D:\Source - 복사본\STM\bin\Debug\CommonAct.dll
+D:\Source - 복사본\STM\bin\Debug\DBAct.dll
+D:\Source - 복사본\STM\bin\Debug\DisplayAct.dll
+D:\Source - 복사본\STM\bin\Debug\EQPAct.dll
+D:\Source - 복사본\STM\bin\Debug\HostAct.dll
+D:\Source - 복사본\STM\bin\Debug\InfoAct.dll
+D:\Source - 복사본\STM\bin\Debug\LogAct.dll
+D:\Source - 복사본\STM\bin\Debug\NCCAct.dll
+D:\Source - 복사본\STM\bin\Debug\ECCCommonAct.dll
+D:\Source - 복사본\STM\bin\Debug\NSECS.dll
+D:\Source - 복사본\STM\bin\Debug\CommandAct.dll
+D:\Source - 복사본\STM\bin\Debug\NLog.dll
+D:\Source - 복사본\STM\bin\Debug\NComm.dll
+D:\Source - 복사본\STM\bin\Debug\LCAct.dll
+D:\Source - 복사본\STM\bin\Debug\ScenarioAct.dll
+D:\Source - 복사본\STM\bin\Debug\MessageAct.dll
+D:\Source - 복사본\STM\bin\Debug\DummyAct.dll
+D:\Source - 복사본\STM\bin\Debug\CommunicationAct.dll
+D:\Source - 복사본\STM\bin\Debug\ECCDBAct.dll
+D:\Source - 복사본\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Source - 복사본\STM\bin\Debug\CommonAct.pdb
+D:\Source - 복사본\STM\bin\Debug\DBAct.pdb
+D:\Source - 복사본\STM\bin\Debug\InfoAct.pdb
+D:\Source - 복사본\STM\bin\Debug\LogAct.pdb
+D:\Source - 복사본\STM\bin\Debug\DisplayAct.pdb
+D:\Source - 복사본\STM\bin\Debug\EQPAct.pdb
+D:\Source - 복사본\STM\bin\Debug\HostAct.pdb
+D:\Source - 복사본\STM\bin\Debug\NSECS.pdb
+D:\Source - 복사본\STM\bin\Debug\CommunicationAct.xml
+D:\Source - 복사본\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Source - 복사본\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Source - 복사본\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Source - 복사본\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Source - 복사본\STM\obj\x86\Debug\STM.exe
+D:\Source - 복사본\STM\obj\x86\Debug\STM.pdb
+D:\Source\STM\bin\Debug\STM.exe
+D:\Source\STM\bin\Debug\CommonAct.dll
+D:\Source\STM\bin\Debug\DBAct.dll
+D:\Source\STM\bin\Debug\DisplayAct.dll
+D:\Source\STM\bin\Debug\EQPAct.dll
+D:\Source\STM\bin\Debug\HostAct.dll
+D:\Source\STM\bin\Debug\InfoAct.dll
+D:\Source\STM\bin\Debug\LogAct.dll
+D:\Source\STM\bin\Debug\ECCAct.dll
+D:\Source\STM\bin\Debug\ECCCommonAct.dll
+D:\Source\STM\bin\Debug\NSECS.dll
+D:\Source\STM\bin\Debug\CommandAct.dll
+D:\Source\STM\bin\Debug\LCAct.dll
+D:\Source\STM\bin\Debug\NLog.dll
+D:\Source\STM\bin\Debug\NComm.dll
+D:\Source\STM\bin\Debug\ScenarioAct.dll
+D:\Source\STM\bin\Debug\MessageAct.dll
+D:\Source\STM\bin\Debug\CommunicationAct.dll
+D:\Source\STM\bin\Debug\ECCDBAct.dll
+D:\Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\Source\STM\bin\Debug\HostAct.pdb
+D:\Source\STM\bin\Debug\STM.exe.config
+D:\Source\STM\bin\Debug\STM.pdb
+D:\Source\STM\bin\Debug\DummyAct.dll
+D:\Source\STM\bin\Debug\CommonAct.pdb
+D:\Source\STM\bin\Debug\DBAct.pdb
+D:\Source\STM\bin\Debug\InfoAct.pdb
+D:\Source\STM\bin\Debug\LogAct.pdb
+D:\Source\STM\bin\Debug\DisplayAct.pdb
+D:\Source\STM\bin\Debug\EQPAct.pdb
+D:\Source\STM\bin\Debug\ECCAct.xml
+D:\Source\STM\bin\Debug\NSECS.pdb
+D:\Source\STM\bin\Debug\CommunicationAct.xml
+D:\Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\Source\STM\obj\x86\Debug\STM.exe
+D:\Source\STM\obj\x86\Debug\STM.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\STM.exe.config
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\STM.exe
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\STM.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommonAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DBAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DisplayAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\EQPAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\HostAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\InfoAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\LogAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCCommonAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NSECS.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommandAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\LCAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NLog.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NComm.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ScenarioAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\MessageAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DummyAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommunicationAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCDBAct.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommonAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DBAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\InfoAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\LogAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DisplayAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\EQPAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\HostAct.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCAct.xml
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NSECS.pdb
+D:\A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommunicationAct.xml
+D:\A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.exe
+D:\A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\STM.exe.config
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\STM.exe
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\STM.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommonAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DBAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DisplayAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\EQPAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\HostAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\InfoAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\LogAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCCommonAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NSECS.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommandAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\LCAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NLog.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NComm.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ScenarioAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\MessageAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DummyAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommunicationAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCDBAct.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\Interop.ACTMULTILib.dll
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommonAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DBAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\InfoAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\LogAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\DisplayAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\EQPAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\HostAct.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\ECCAct.xml
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\NSECS.pdb
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\bin\Debug\CommunicationAct.xml
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.csprojResolveAssemblyReference.cache
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.frmLoading.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.Properties.Resources.resources
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.exe
+D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.pdb

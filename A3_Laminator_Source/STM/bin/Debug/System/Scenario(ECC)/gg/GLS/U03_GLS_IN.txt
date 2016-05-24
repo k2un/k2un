@@ -1,0 +1,4 @@
+PLC(W2780,LOTID01         ,A)
+PLC(W2788,01,A)
+
+PLC(B154A,1)

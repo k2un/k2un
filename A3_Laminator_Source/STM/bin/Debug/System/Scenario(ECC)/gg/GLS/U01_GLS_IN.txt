@@ -1,0 +1,60 @@
+//'Word영역에 GLS Data Write(1번째 GLS)
+
+PLC(W2540,H_GALSSID02     ,A)
+PLC(W2548,                ,A)
+PLC(W2550,LOTID01         ,A)
+PLC(W2558,BATCHID01       ,A)
+PLC(W2560,JOBID01         ,A)
+PLC(W2568,BP01,A)
+PLC(W256A,01,A)
+PLC(W256B,    ,A)
+PLC(W256D,    ,A)
+PLC(W256F,                ,A)
+
+PLC(W2577,RUNSPECID       ,A)
+PLC(W257F,LAYERID ,A)
+PLC(W2583,0105    ,A)
+PLC(W2587,HOST1               ,A)
+PLC(W2591,FLOWID01            ,A)
+PLC(W259B,5200,D)
+PLC(W259C,7300,D)
+PLC(W259D,500,D)
+PLC(W259E,1,D)
+PLC(W259F,0128,A)
+PLC(W25A1,COMMENT         ,A)
+PLC(W25A9,    ,A)
+PLC(W25AB,OK  ,A)
+PLC(W25AD,CODE,A)
+PLC(W25AF,  ,A)
+PLC(W25B0,Y ,A)
+PLC(W25B1,Y ,A)
+PLC(W25B2,CW,A)
+PLC(W25B3,H ,A)
+PLC(W25B4,    ,A)
+PLC(W25B6,                ,A)
+PLC(W25BE,PAIRID01        ,A)
+PLC(W25C6,PAIRPPID            ,A)
+
+PLC(W25D0,                                        ,A)
+PLC(W25E4,                                        ,A)
+
+PLC(W25F8,                                        ,A)
+PLC(W260C,                                        ,A)
+
+PLC(W2620,                                        ,A)
+PLC(W2634,                                        ,A)
+
+PLC(W2648,                                        ,A)
+PLC(W265C,                                        ,A)
+
+PLC(W2670,                                        ,A)
+PLC(W2684,                                        ,A)
+
+PLC(W2698,1,D)
+PLC(W2699,1,D)
+
+Delay,2
+
+
+
+PLC(B1548,1)

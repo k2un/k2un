@@ -1,0 +1,351 @@
+//'Unit1(CV01) Departure~Unit20(UL01) Departure
+
+
+//'Unit1 GLS Depature(End)
+//'GLS Data
+PLC(W1748,LOTID01,A)
+PLC(W174F,1,A)
+PLC(B1578,1)
+//'Unit1 Idle
+PLC(B1643,010000)
+
+//'Unit2 Execute
+PLC(B1653,000010)
+//'Unit2 GLS Arrive(Start)
+//'GLS Data
+PLC(W1750,LOTID01,A)
+PLC(W1757,1,A)
+PLC(B1549,1)
+Delay,2
+//'Unit2 GLS Depature(End)
+//'GLS Data
+PLC(W1758,LOTID01,A)
+PLC(W175F,1,A)
+PLC(B1579,1)
+//'Unit2 Idle
+PLC(B1653,010000)
+
+   
+//'Unit3 Execute
+PLC(B1663,000010)
+//'Unit3 GLS Arrive(Start)
+//'GLS Data
+PLC(W1760,LOTID01,A)
+PLC(W1767,1,A)
+PLC(B154A,1)
+Delay,2
+//'Unit3 GLS Depature(End)
+//'GLS Data
+PLC(W1768,LOTID01,A)
+PLC(W176F,1,A)
+PLC(B157A,1)
+//'Unit2 Idle
+PLC(B1663,010000)
+
+
+//'Unit4 Execute
+PLC(B1673,000010)
+//'Unit4 GLS Arrive(Start)
+//'GLS Data
+PLC(W1770,LOTID01,A)
+PLC(W1777,1,A)
+PLC(B154B,1)
+Delay,2
+//'Unit4 GLS Depature(End)
+//'GLS Data
+PLC(W1778,LOTID01,A)
+PLC(W177F,1,A)
+PLC(B157B,1)
+//'Unit2 Idle
+PLC(B1673,010000)
+
+
+//'Unit5 Execute
+PLC(B1683,000010)
+//'Unit5 GLS Arrive(Start)
+//'GLS Data
+PLC(W1780,LOTID01,A)
+PLC(W1787,1,A)
+PLC(B154C,1)
+Delay,2
+//'Unit5 GLS Depature(End)
+//'GLS Data
+PLC(W1788,LOTID01,A)
+PLC(W178F,1,A)
+PLC(B157C,1)
+//'Unit5 Idle
+PLC(B1683,010000)
+
+
+//'Unit6 Execute
+PLC(B1693,000010)
+//'Unit6 GLS Arrive(Start)
+//'GLS Data
+PLC(W1790,LOTID01,A)
+PLC(W1797,1,A)
+PLC(B154D,1)
+Delay,2
+//'Unit6 GLS Depature(End)
+//'GLS Data
+PLC(W1798,LOTID01,A)
+PLC(W179F,1,A)
+PLC(B157D,1)
+//'Unit6 Idle
+PLC(B1693,010000)
+
+
+//'Unit7 Execute
+PLC(B16A3,000010)
+//'Unit7 GLS Arrive(Start)
+//'GLS Data
+PLC(W17A0,LOTID01,A)
+PLC(W17A7,1,A)
+PLC(B154E,1)
+Delay,2
+//'Unit7 GLS Depature(End)
+//'GLS Data
+PLC(W17A8,LOTID01,A)
+PLC(W17AF,1,A)
+PLC(B157E,1)
+//'Unit7 Idle
+PLC(B16A3,010000)
+
+
+//'Unit8 Execute
+PLC(B16B3,000010)
+//'Unit8 GLS Arrive(Start)
+//'GLS Data
+PLC(W17B0,LOTID01,A)
+PLC(W17B7,1,A)
+PLC(B154F,1)
+Delay,2
+//'Unit8 GLS Depature(End)
+//'GLS Data
+PLC(W17B8,LOTID01,A)
+PLC(W17BF,1,A)
+PLC(B157F,1)
+//'Unit8 Idle
+PLC(B16B3,010000)
+
+
+
+//'Unit9 Execute
+PLC(B16C3,000010)
+//'Unit9 GLS Arrive(Start)
+//'GLS Data
+PLC(W17C0,LOTID01,A)
+PLC(W17C7,1,A)
+PLC(B1558,1)
+Delay,2
+//'Unit9 GLS Depature(End)
+//'GLS Data
+PLC(W17C8,LOTID01,A)
+PLC(W17CF,1,A)
+PLC(B1588,1)
+//'Unit9 Idle
+PLC(B16C3,010000)
+
+
+
+//'Unit10 Execute
+PLC(B16D3,000010)
+//'Unit10 GLS Arrive(Start)
+//'GLS Data
+PLC(W17D0,LOTID01,A)
+PLC(W17D7,1,A)
+PLC(B1559,1)
+Delay,2
+//'Unit10 GLS Depature(End)
+//'GLS Data
+PLC(W17D8,LOTID01,A)
+PLC(W17DF,1,A)
+PLC(B1589,1)
+//'Unit10 Idle
+PLC(B16D3,010000)
+
+
+
+//'Unit11 Execute
+PLC(B16E3,000010)
+//'Unit11 GLS Arrive(Start)
+//'GLS Data
+PLC(W17E0,LOTID01,A)
+PLC(W17E7,1,A)
+PLC(B155A,1)
+Delay,2
+//'Unit11 GLS Depature(End)
+//'GLS Data
+PLC(W17E8,LOTID01,A)
+PLC(W17EF,1,A)
+PLC(B158A,1)
+//'Unit11 Idle
+PLC(B16E3,010000)
+
+
+
+//'Unit12 Execute
+PLC(B16F3,000010)
+//'Unit12 GLS Arrive(Start)
+//'GLS Data
+PLC(W17F0,LOTID01,A)
+PLC(W17F7,1,A)
+PLC(B155B,1)
+Delay,2
+//'Unit12 GLS Depature(End)
+//'GLS Data
+PLC(W17F8,LOTID01,A)
+PLC(W17FF,1,A)
+PLC(B158B,1)
+//'Unit12 Idle
+PLC(B16F3,010000)
+
+
+
+//'Unit13 Execute
+PLC(B1703,000010)
+//'Unit13 GLS Arrive(Start)
+//'GLS Data
+PLC(W1800,LOTID01,A)
+PLC(W1807,1,A)
+PLC(B155C,1)
+Delay,2
+//'Unit13 GLS Depature(End)
+//'GLS Data
+PLC(W1808,LOTID01,A)
+PLC(W180F,1,A)
+PLC(B158C,1)
+//'Unit13 Idle
+PLC(B1703,010000)
+
+
+
+//'Unit14 Execute
+PLC(B1713,000010)
+//'Unit14 GLS Arrive(Start)
+//'GLS Data
+PLC(W1810,LOTID01,A)
+PLC(W1817,1,A)
+PLC(B155D,1)
+Delay,2
+//'Unit14 GLS Depature(End)
+//'GLS Data
+PLC(W1818,LOTID01,A)
+PLC(W181F,1,A)
+PLC(B158D,1)
+//'Unit14 Idle
+PLC(B1713,010000)
+
+
+
+//'Unit15 Execute
+PLC(B1723,000010)
+//'Unit15 GLS Arrive(Start)
+//'GLS Data
+PLC(W1820,LOTID01,A)
+PLC(W1827,1,A)
+PLC(B155E,1)
+Delay,2
+//'Unit15 GLS Depature(End)
+//'GLS Data
+PLC(W1828,LOTID01,A)
+PLC(W182F,1,A)
+PLC(B158E,1)
+//'Unit15 Idle
+PLC(B1723,010000)
+
+
+
+//'Unit16 Execute
+PLC(B1733,000010)
+//'Unit16 GLS Arrive(Start)
+//'GLS Data
+PLC(W1830,LOTID01,A)
+PLC(W1837,1,A)
+PLC(B155F,1)
+Delay,2
+//'Unit16 GLS Depature(End)
+//'GLS Data
+PLC(W1838,LOTID01,A)
+PLC(W183F,1,A)
+PLC(B158F,1)
+//'Unit16 Idle
+PLC(B1733,010000)
+
+
+
+//'Unit17 Execute
+PLC(B1743,000010)
+//'Unit17 GLS Arrive(Start)
+//'GLS Data
+PLC(W1840,LOTID01,A)
+PLC(W1847,1,A)
+PLC(B1568,1)
+Delay,2
+//'Unit17 GLS Depature(End)
+//'GLS Data
+PLC(W1848,LOTID01,A)
+PLC(W184F,1,A)
+PLC(B1598,1)
+//'Unit17 Idle
+PLC(B1743,010000)
+
+
+
+//'Unit18 Execute
+PLC(B1753,000010)
+//'Unit18 GLS Arrive(Start)
+//'GLS Data
+PLC(W1850,LOTID01,A)
+PLC(W1857,1,A)
+PLC(B1569,1)
+Delay,2
+//'Unit18 GLS Depature(End)
+//'GLS Data
+PLC(W1858,LOTID01,A)
+PLC(W185F,1,A)
+PLC(B1599,1)
+//'Unit18 Idle
+PLC(B1753,010000)
+
+
+
+//'Unit19 Execute
+PLC(B1763,000010)
+//'Unit19 GLS Arrive(Start)
+//'GLS Data
+PLC(W1860,LOTID01,A)
+PLC(W1867,1,A)
+PLC(B156A,1)
+Delay,2
+//'Unit19 GLS Depature(End)
+//'GLS Data
+PLC(W1868,LOTID01,A)
+PLC(W186F,1,A)
+PLC(B159A,1)
+//'Unit19 Idle
+PLC(B1763,010000)
+
+
+
+//'Unit20 Execute
+PLC(B1773,000010)
+//'Unit20 GLS Arrive(Start)
+//'GLS Data
+PLC(W1870,LOTID01,A)
+PLC(W1877,1,A)
+PLC(B156B,1)
+Delay,2
+//'Unit19 GLS Depature(End)
+//'GLS Data
+PLC(W1878,LOTID01,A)
+PLC(W187F,1,A)
+PLC(B159B,1)
+//'전체 장비 GLS 없음
+PLC(B160B,0)
+//'Unit19 Idle
+PLC(B1773,010000)
+
+
+//'전체 장비 상태 Idle
+PLC(B1603,010000)
+

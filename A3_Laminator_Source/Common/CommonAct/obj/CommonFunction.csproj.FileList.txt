@@ -1,0 +1,7 @@
+bin\Debug\CommonFuction.dll
+bin\Debug\CommonFuction.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CommonFuction.dll
+obj\Debug\CommonFuction.pdb
+bin\Debug\Interface.dll
+bin\Debug\Interface.pdb

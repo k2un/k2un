@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ECCAct</name>
+    </assembly>
+    <members>
+        <member name="T:ECCAct.clsECC">
+             <summary>
+             <b> 장비와의 각종 통신을 처리하는 컴포넌트 </b><br/>
+             2007/06/18      네스텍 어 경태    최초작성
+            </summary>
+        </member>
+        <member name="F:ECCAct.clsECC.PConASCII">
+            <summary>
+            <b> 통신에 필요한 ASCII 모음 클래스 </b><br/>
+            2007/06/26      네스텍 어 경태    최초작성
+            </summary>
+        </member>
+        <member name="M:ECCAct.clsECC.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ECCAct.clsECC.AddressMapBitHash(System.String)">
+            <summary>
+            proAddressMapHash를 연결 시켜준다.
+            </summary>
+            <param name="strAddress"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECCAct.clsECC.AddressMapWordHash(System.String)">
+            <summary>
+            proWordMapHash를 연결시켜준다.
+            </summary>
+            <param name="strAddress"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECCAct.clsECC.funOpenConnection">
+            <summary>
+            Command방식에 따른 proEQPCommandType(PC/PLC)에 의해 클래스를 연결(OPEN)한다.
+            Special Notes : PC형과 PLC형 2가지로 나뉘어 Component를 생성한다.
+            </summary>
+            <returns> Open성공여부 => True : 성공, False : 실패 </returns>
+            <remarks>
+            2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:ECCAct.clsECC.funCloseConnection">
+            <summary>
+            통신을 종료한다.
+            </summary>
+            <returns> Close성공여부 => True : 성공, False : 실패 </returns>
+            <remarks>
+            2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:ECCAct.clsECC.subReceive(System.String)">
+            <summary>
+            장비로부터의 Receive Data를 자식에게 전달한다.(Toss)
+            </summary>
+            <param name="strMessage">장비로부터 받은 데이타</param>
+            <remarks>
+            2007/06/18      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:ECCAct.clsECC.subReceive(System.Int32,System.String)">
+            <summary>
+            ErrorEvent를 받으면 ErrorEvent로 subReceive를 호출하여 큐에 저장하게 한다.
+            </summary>
+            <param name="intErrorCode"></param>
+            <param name="strErrorDescription"></param>
+        </member>
+        <member name="M:ECCAct.clsECC.subReceiveEventByte(System.Byte[],System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="bytReceiveData"></param>
+            <param name="intByteLength"></param>
+        </member>
+        <member name="M:ECCAct.clsECC.funEventData">
+            <summary>
+            큐에 저장된 데이터를 추출해서 프로그램으로 전달한다.
+            </summary>
+            <remarks>
+            2000/09/07      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:ECCAct.clsECC.funReceiveByteData">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ECCAct.clsECC.subTransfer(System.String)">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="strMessage"> 장비로 전송할 데이타</param>
+             <remarks>
+             2007/06/20      어 경태     최초작성
+            </remarks>
+        </member>
+        <member name="M:ECCAct.clsECC.subTransfer(System.Byte[])">
+             <summary>
+             데이타를 장비로 전송한다.
+             </summary>
+             <param name="Message"> 장비로 전송할 데이타(Byte[])</param>
+             <remarks>
+             2009/09/03      송 은선     최초작성
+            </remarks>
+        </member>
+        <member name="M:ECCAct.clsECC.funTransfer(System.String)">
+            <summary>
+            string을 보내고 string으로 응답을 받는다.
+            </summary>
+            <param name="strMessage"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ECCAct.clsECC.funTransfer(System.Byte[])">
+            <summary>
+            Byte값을 보내고 Byte값으로 리턴을 받는다.
+            </summary>
+            <param name="strMessage"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

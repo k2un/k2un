@@ -1,0 +1,10 @@
+bin\Debug\DBAct.dll
+bin\Debug\DBAct.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DBAct.dll
+obj\Debug\DBAct.pdb
+bin\Release\DBAct.dll
+bin\Release\DBAct.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\DBAct.dll
+obj\Release\DBAct.pdb

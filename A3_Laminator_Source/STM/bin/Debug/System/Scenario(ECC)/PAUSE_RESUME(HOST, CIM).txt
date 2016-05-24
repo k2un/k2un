@@ -1,0 +1,53 @@
+//'PAUSE_RESUME(HOST, CIM).txt
+
+//'Pause 지시
+DO
+{
+PASS=PLC(B1020,1)
+}WHILE(PASS<1)
+
+//'Pause 지시 확인 ON 
+PLC(B1520,1)
+
+//'개별 Unit Pause 확인
+//PLC(B1643,000001)
+
+//'개별 Unit 중에 한 Unit라도 Pause가 발생해서
+//'전체 장비 상태(EQP State) Pause로..
+//'EQP Process State(Pause)
+PLC(B1603,000001)
+
+//'이하 모든 개별 Unit Pause로..
+//'B1653,000001
+//'B1663,000001
+//'B1673,000001
+//'B1683,000001
+//'B1693,000001
+
+
+Delay,2
+
+
+//'Resume 지시
+DO
+{
+PASS=PLC(B1021,1)
+}WHILE(PASS<1)
+
+//'Resume 지시 확인 ON 
+PLC(B1521,1)
+
+//'개별 Unit Resume 확인
+//PLC(B1643,010000)
+
+//'모든 개별 Unit Resume
+//'이전상태(Idle)로..
+//'B1653,010000
+//'B1663,010000
+//'B1673,010000
+//'B1683,010000
+//'B1693,010000
+
+
+//'EQP Process State(Idle)
+PLC(B1603,010000)

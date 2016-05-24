@@ -1,0 +1,42 @@
+// host ppid count
+PLC(W250E,2,D)
+// eqp ppid count
+PLC(W250F,2,D)
+// current eqp ppid
+PLC(W2510,1,D)
+// current host ppid
+PLC(W2504,HOST1               ,A)
+
+file PPID_EQP01.txt
+file PPID_EQP02.txt
+file PPID_HOST1.txt
+file PPID_HOST2.txt
+file OnePPID_EQP01.txt
+
+interval, 100
+do
+{
+// 전체 조회
+if(PLC(B1026,1)==1)
+{
+if(PLC(W104B,1,D)==1)
+{
+PLC(W200B,1,D)
+PLC(W204B,1,D)
+}
+if(PLC(W104B,1,D)==2)
+{
+PLC(W200B,2,D)
+PLC(W204B,2,D)
+}
+PLC(B1526,1)
+}
+
+// 한개 조회
+if(PLC(B1035,1)==1)
+{
+PLC(B1535,1)
+}
+
+}
+while

@@ -1,0 +1,48 @@
+- Update, Delete, Insert 실행
+
+private void button4_Click_2(object sender, EventArgs e)
+{
+            try
+            {
+                if (DB.funBeginTransaction())		//Transaction을 시작한다.
+                {
+                    if (DB.funExecuteQuery("Update tbSungJuk set Kor=50 where Name='김동현'"))
+                    {
+                        DB.funCommitTransaction();	//성공할 경우 Commit한다.
+                        System.Diagnostics.Debug.WriteLine("DB 성공적으로 업데이트");
+                    }
+                    else
+                    {
+                        DB.funRollbackTransaction();       //실패할 경우 Rollback한다.
+                    }
+                }
+            }
+            catch
+            {
+                if (DB.funIsNullTransaction() != true)     //실패할 경우 Rollback한다.
+                    DB.funRollbackTransaction();    
+            }
+}
+        
+        
+        
+        
+-Select 실행
+
+private void button1_Click_1(object sender, EventArgs e)
+{
+	DataTable DT = DB.funSelectQuery("Select * from tbSungJuk order by ID");
+	
+	//DT의 속성을 이용해 행 개수나 데이터 등을 가져온다.
+}
+
+
+
+- 테이블의 행 개수, 최소값, 최대값 등에 관련된 명령
+private void button1_Click(object sender, EventArgs e)
+{
+	int dintCount = 0;
+	dintCount = this.pDBAct.funSelectCountQuery("Select count(*) from tbcoalarm"));
+	//dintCount = this.pDBAct.funSelectCountQuery("Select Max(coAlarmID) from tbcoalarm"));
+}
+

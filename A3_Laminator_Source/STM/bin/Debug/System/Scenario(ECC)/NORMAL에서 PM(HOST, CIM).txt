@@ -1,0 +1,25 @@
+//'NORMAL에서 PM(HOST, CIM)
+
+DO
+{
+PASS=PLC(B1012,1)
+}WHILE(PASS<1)
+PASS=0
+//'PM 지시 확인 ON 
+PLC(B1512,1)
+
+//'개별 Unit PM 확인
+//'B1640,001
+
+//'개별 Unit 중에 한 Unit라도 PM이 발생해서
+//'전체 장비 상태(EQP State) PM으로..
+PLC(B1600,001)
+
+//'이하 모든 개별 Unit PM으로..
+//'B1650,001
+//'B1660,001
+//'B1670,001
+//'B1680,001
+//'B1690,001
+
+
