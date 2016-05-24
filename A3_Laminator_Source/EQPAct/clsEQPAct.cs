@@ -22,7 +22,7 @@ namespace EQPAct
     	public string Version
         {
             get { return "SMD A2 DMS CLEANER V1.0"; }
-        }
+        } //test
         
         #region "선언"
         //외부 DLL인 구조체및 MTPLC의 정의

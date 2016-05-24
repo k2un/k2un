@@ -848,3 +848,6 @@ D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.Properties.Resourc
 D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.csproj.GenerateResource.Cache
 D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.exe
 D:\SDC_A3_Laminator\A3_Laminator_Source\STM\obj\x86\Debug\STM.pdb
+D:\Github\A3_Laminator_Source\STM\bin\Debug\STM.exe.config
+D:\Github\A3_Laminator_Source\STM\obj\x86\Debug\STM.exe
+D:\Github\A3_Laminator_Source\STM\obj\x86\Debug\STM.pdb
